@@ -6,7 +6,7 @@ WORKDIR /app
 RUN mkdir -p /app/server/data && chown -R node:node /app
 
 COPY --chown=node:node package.json .env.example ./
-COPY --chown=node:node nirma_strike.html ./
+COPY --chown=node:node index.html nirma_strike.html ./
 COPY --chown=node:node server ./server
 COPY --chown=node:node assets ./assets
 COPY --chown=node:node docs ./docs

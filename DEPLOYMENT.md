@@ -31,7 +31,14 @@ When deployed to any cloud host (Render, Fly.io, Railway, VPS, or Docker), playe
 >   2. Add a persistent disk in Render Dashboard or `render.yaml` (`mountPath: /var/data`, `sizeGB: 1`).
 >   3. Set `NIRVEX_DB_PATH=/var/data/nirvex_db.json`.
 
-### Option B: Fly.io (`fly.toml`)
+### Option B: Vercel Frontend (`vercel.json` & `index.html`)
+1. Import repository `udaydomadiya08/nirvex` in your Vercel Dashboard ([vercel.com/new](https://vercel.com/new)).
+2. Framework Preset: **Other** / **None** (Static).
+3. Root Directory: `./` (Vercel automatically detects `index.html` and `vercel.json`).
+4. Click **Deploy**.
+5. When loaded on Vercel (`https://<project>.vercel.app`), `index.html` automatically communicates with the live Render multiplayer backend at `https://nirvex.onrender.com` (`wss://nirvex.onrender.com/ws`) with full CORS support.
+
+### Option C: Fly.io (`fly.toml`)
 ```bash
 fly volumes create nirvex_data --region bom --size 1
 fly deploy

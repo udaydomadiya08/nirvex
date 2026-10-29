@@ -363,10 +363,12 @@ function createNirvexServer(options = {}) {
   }
 
   function tryServeStaticFile(reqPath, res, isHead = false) {
-    let relPath = reqPath === '/' || reqPath === '/index.html' ? '/nirma_strike.html' : reqPath;
+    let relPath = reqPath === '/' ? '/index.html' : reqPath;
     const normalized = path.normalize(relPath).replace(/^(\.\.[\/\\])+/, '');
     const candidatePaths = [
       path.join(projectRoot, normalized),
+      path.join(projectRoot, 'index.html'),
+      path.join(projectRoot, 'nirma_strike.html'),
       path.join(projectRoot, 'artifacts', 'file_generation', 'ttl=63d', 'output', path.basename(normalized))
     ];
 
