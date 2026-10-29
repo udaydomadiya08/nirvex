@@ -7,6 +7,7 @@
     "start": "node server/multiplayer_server.js",
     "test": "node tests/multiplayer_modes.test.js",
     "test:live": "node tests/verify_multiplayer_live.js",
+    "test:bench": "node tests/benchmark_load.js",
     "test:e2e": "python3 tests/two_browser_e2e.py",
     "healthcheck": "node -e \"require('http').get('http://127.0.0.1:' + (process.env.PORT || 8787) + '/healthz', r => process.exit(r.statusCode === 200 ? 0 : 1)).on('error', () => process.exit(1))\""
   },
