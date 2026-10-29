@@ -319,17 +319,22 @@ function createNirvexServer(options = {}) {
     return check;
   }
 
-  function sendJson(res, statusCode, body) {
+  function sendJson(res, statusCode, body, isHead = false) {
     const payload = JSON.stringify(body);
     res.writeHead(statusCode, {
       'Content-Type': 'application/json; charset=utf-8',
+      'Content-Length': Buffer.byteLength(payload),
       'Access-Control-Allow-Origin': ALLOWED_ORIGIN,
       'Access-Control-Allow-Methods': 'GET, POST, OPTIONS',
       'Access-Control-Allow-Headers': 'Content-Type, Authorization, X-Session-Token',
       'X-Content-Type-Options': 'nosniff',
       'X-Frame-Options': 'SAMEORIGIN'
     });
-    res.end(payload);
+    if (isHead) {
+      res.end();
+    } else {
+      res.end(payload);
+    }
   }
 
   function readJsonBody(req) {
@@ -357,7 +362,7 @@ function createNirvexServer(options = {}) {
     });
   }
 
-  function tryServeStaticFile(reqPath, res) {
+  function tryServeStaticFile(reqPath, res, isHead = false) {
     let relPath = reqPath === '/' || reqPath === '/index.html' ? '/nirma_strike.html' : reqPath;
     const normalized = path.normalize(relPath).replace(/^(\.\.[\/\\])+/, '');
     const candidatePaths = [
@@ -369,12 +374,18 @@ function createNirvexServer(options = {}) {
       if (fs.existsSync(fullPath) && fs.statSync(fullPath).isFile()) {
         const ext = path.extname(fullPath).toLowerCase();
         const contentType = MIME_TYPES[ext] || 'application/octet-stream';
+        const stat = fs.statSync(fullPath);
         res.writeHead(200, {
           'Content-Type': contentType,
+          'Content-Length': stat.size,
           'Access-Control-Allow-Origin': ALLOWED_ORIGIN,
           'Cache-Control': 'no-cache'
         });
-        fs.createReadStream(fullPath).pipe(res);
+        if (isHead) {
+          res.end();
+        } else {
+          fs.createReadStream(fullPath).pipe(res);
+        }
         return true;
       }
     }
@@ -386,17 +397,20 @@ function createNirvexServer(options = {}) {
       return sendJson(res, 200, { ok: true });
     }
 
+    const isHead = req.method === 'HEAD';
+    const isGetOrHead = req.method === 'GET' || isHead;
+
     const clientIp = req.socket.remoteAddress || '127.0.0.1';
     if (!rateLimiter.allow(clientIp, 1)) {
       hub.recordAuditEvent('HTTP_RATE_LIMIT_EXCEEDED', null, { ip: clientIp, url: req.url });
-      return sendJson(res, 429, { ok: false, code: 'RATE_LIMITED', message: 'Too many requests. Please slow down.' });
+      return sendJson(res, 429, { ok: false, code: 'RATE_LIMITED', message: 'Too many requests. Please slow down.' }, isHead);
     }
 
     const parsedUrl = url.parse(req.url, true);
     const pathname = parsedUrl.pathname;
 
     // Health & Readiness Probes
-    if (req.method === 'GET' && (pathname === '/api/health' || pathname === '/healthz' || pathname === '/readyz')) {
+    if (isGetOrHead && (pathname === '/api/health' || pathname === '/healthz' || pathname === '/readyz')) {
       return sendJson(res, 200, {
         ok: true,
         status: 'healthy',
@@ -414,21 +428,21 @@ function createNirvexServer(options = {}) {
           totalTicks,
           lastTickDurationMs: Number(lastTickDurationMs.toFixed(3))
         }
-      });
+      }, isHead);
     }
 
     // Serve Game Client (`nirma_strike.html`), Core Engine & 3D Assets
-    if (req.method === 'GET' && (
+    if (isGetOrHead && (
       pathname === '/' ||
       pathname === '/index.html' ||
       pathname === '/nirma_strike.html' ||
       pathname === '/server/multiplayer_core.js' ||
       pathname.startsWith('/assets/')
     )) {
-      if (tryServeStaticFile(pathname, res)) return;
+      if (tryServeStaticFile(pathname, res, isHead)) return;
     }
 
-    if (req.method === 'GET' && pathname === '/api/config') {
+    if (isGetOrHead && pathname === '/api/config') {
       const hostHdr = req.headers['host'] || `127.0.0.1:${DEFAULT_PORT}`;
       const isTls = Boolean(req.headers['x-forwarded-proto'] === 'https' || req.socket.encrypted);
       const httpProto = isTls ? 'https' : 'http';
@@ -447,17 +461,17 @@ function createNirvexServer(options = {}) {
           customRooms: true,
           matchmaking: true
         }
-      });
+      }, isHead);
     }
 
-    if (req.method === 'GET' && pathname === '/api/modes') {
+    if (isGetOrHead && pathname === '/api/modes') {
       return sendJson(res, 200, {
         ok: true,
         protocolVersion: Core.PROTOCOL_VERSION,
         modes: Core.MODE_CONFIG_REGISTRY,
         rankTiers: Core.RANK_TIERS,
         weapons: Core.WEAPON_STATS_REGISTRY
-      });
+      }, isHead);
     }
 
     let body = {};
