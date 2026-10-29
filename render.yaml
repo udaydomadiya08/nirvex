@@ -1,0 +1,19 @@
+services:
+  - type: web
+    name: nirvex
+    env: node
+    plan: free
+    buildCommand: "echo 'Zero external npm dependencies required'"
+    startCommand: "node server/multiplayer_server.js"
+    healthCheckPath: /healthz
+    envVars:
+      - key: NODE_ENV
+        value: production
+      - key: NIRVEX_HOST
+        value: 0.0.0.0
+      - key: NIRVEX_DB_PATH
+        value: ./server/data/nirvex_db.json
+      - key: NIRVEX_RECONNECT_GRACE_MS
+        value: 120000
+      - key: NIRVEX_CORS_ORIGIN
+        value: "*"

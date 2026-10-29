@@ -1,0 +1,609 @@
+{
+  "project": "NIRMA: PROTOCOL \u2014 Piana Clean-Room Pipeline & AAA Tactical Asset Suite",
+  "total_glb_assets": 16,
+  "pbr_material_presets": [
+    "gunmetal_anodized",
+    "steel_brushed_barrel",
+    "polymer_matte_grip",
+    "ballistic_kevlar_weave",
+    "ceramic_armor_plate",
+    "optic_glass_visor",
+    "nirma_sandstone_ashlar",
+    "nirma_gritwash_concrete"
+  ],
+  "humanoid_bone_standard": [
+    "root",
+    "hips",
+    "spine",
+    "chest",
+    "aim_pitch_bone",
+    "neck",
+    "head",
+    "clavicle_L",
+    "upper_arm_L",
+    "forearm_L",
+    "forearm_twist_L",
+    "hand_L",
+    "clavicle_R",
+    "upper_arm_R",
+    "forearm_R",
+    "forearm_twist_R",
+    "hand_R",
+    "weapon_socket_R",
+    "ik_hand_target_L",
+    "ik_hand_target_R",
+    "thigh_L",
+    "shin_L",
+    "foot_L",
+    "toe_L",
+    "thigh_R",
+    "shin_R",
+    "foot_R",
+    "toe_R"
+  ],
+  "weapon_socket_standard": [
+    "grip_primary",
+    "grip_secondary",
+    "muzzle_socket",
+    "magazine_socket",
+    "scope_mount",
+    "shell_eject_socket"
+  ],
+  "assets": [
+    {
+      "asset_id": "hero_vajra_rig",
+      "name": "VAJRA (Duelist) Articulated 28-Bone Rig",
+      "category": "character_rig",
+      "file": "assets/models/heroes/hero_vajra_rig.glb",
+      "size_bytes": 28484,
+      "triangles": 216,
+      "bones_or_sockets": 28,
+      "license": "CC0 1.0 / MIT (100% Original NIRMA: PROTOCOL Clean-Room Asset)",
+      "ip_safe_verified": true,
+      "validation_passed": true
+    },
+    {
+      "asset_id": "hero_drishti_rig",
+      "name": "DRISHTI (Initiator) Articulated 28-Bone Rig",
+      "category": "character_rig",
+      "file": "assets/models/heroes/hero_drishti_rig.glb",
+      "size_bytes": 28528,
+      "triangles": 216,
+      "bones_or_sockets": 28,
+      "license": "CC0 1.0 / MIT (100% Original NIRMA: PROTOCOL Clean-Room Asset)",
+      "ip_safe_verified": true,
+      "validation_passed": true
+    },
+    {
+      "asset_id": "hero_pralay_rig",
+      "name": "PRALAY (Controller) Articulated 28-Bone Rig",
+      "category": "character_rig",
+      "file": "assets/models/heroes/hero_pralay_rig.glb",
+      "size_bytes": 28504,
+      "triangles": 216,
+      "bones_or_sockets": 28,
+      "license": "CC0 1.0 / MIT (100% Original NIRMA: PROTOCOL Clean-Room Asset)",
+      "ip_safe_verified": true,
+      "validation_passed": true
+    },
+    {
+      "asset_id": "hero_kavach_rig",
+      "name": "KAVACH (Sentinel) Articulated 28-Bone Rig",
+      "category": "character_rig",
+      "file": "assets/models/heroes/hero_kavach_rig.glb",
+      "size_bytes": 28508,
+      "triangles": 216,
+      "bones_or_sockets": 28,
+      "license": "CC0 1.0 / MIT (100% Original NIRMA: PROTOCOL Clean-Room Asset)",
+      "ip_safe_verified": true,
+      "validation_passed": true
+    },
+    {
+      "asset_id": "hero_agni_rig",
+      "name": "AGNI (Controller / Initiator) Articulated 28-Bone Rig",
+      "category": "character_rig",
+      "file": "assets/models/heroes/hero_agni_rig.glb",
+      "size_bytes": 28464,
+      "triangles": 216,
+      "bones_or_sockets": 28,
+      "license": "CC0 1.0 / MIT (100% Original NIRMA: PROTOCOL Clean-Room Asset)",
+      "ip_safe_verified": true,
+      "validation_passed": true
+    },
+    {
+      "asset_id": "weapon_vanguard_ar",
+      "name": "Vanguard-47 Heavy Rifle",
+      "valorant_archetype": "Vandal",
+      "category": "weapon_model",
+      "file": "assets/models/weapons/weapon_vanguard_ar.glb",
+      "size_bytes": 9892,
+      "triangles": 72,
+      "bones_or_sockets": 6,
+      "sockets": {
+        "grip_primary": [
+          0.0,
+          0.0,
+          0.0
+        ],
+        "grip_secondary": [
+          0.0,
+          0.025,
+          -0.27
+        ],
+        "muzzle_socket": [
+          0.0,
+          0.088,
+          -0.74
+        ],
+        "magazine_socket": [
+          0.0,
+          -0.025,
+          -0.19
+        ],
+        "scope_mount": [
+          0.0,
+          0.145,
+          -0.13
+        ],
+        "shell_eject_socket": [
+          0.039,
+          0.088,
+          -0.13
+        ]
+      },
+      "license": "CC0 1.0 / MIT (100% Original NIRMA: PROTOCOL Clean-Room Asset)",
+      "ip_safe_verified": true,
+      "validation_passed": true
+    },
+    {
+      "asset_id": "weapon_surya_carbine",
+      "name": "Phantom-X Suppressed Carbine",
+      "valorant_archetype": "Phantom / Bulldog",
+      "category": "weapon_model",
+      "file": "assets/models/weapons/weapon_surya_carbine.glb",
+      "size_bytes": 9932,
+      "triangles": 72,
+      "bones_or_sockets": 6,
+      "sockets": {
+        "grip_primary": [
+          0.0,
+          0.0,
+          0.0
+        ],
+        "grip_secondary": [
+          0.0,
+          0.022,
+          -0.28
+        ],
+        "muzzle_socket": [
+          0.0,
+          0.088,
+          -0.84
+        ],
+        "magazine_socket": [
+          0.0,
+          -0.025,
+          -0.18
+        ],
+        "scope_mount": [
+          0.0,
+          0.145,
+          -0.13
+        ],
+        "shell_eject_socket": [
+          0.039,
+          0.088,
+          -0.13
+        ]
+      },
+      "license": "CC0 1.0 / MIT (100% Original NIRMA: PROTOCOL Clean-Room Asset)",
+      "ip_safe_verified": true,
+      "validation_passed": true
+    },
+    {
+      "asset_id": "weapon_spectre_smg",
+      "name": "Spectre-9 Suppressed SMG",
+      "valorant_archetype": "Spectre / Stinger",
+      "category": "weapon_model",
+      "file": "assets/models/weapons/weapon_spectre_smg.glb",
+      "size_bytes": 9876,
+      "triangles": 72,
+      "bones_or_sockets": 6,
+      "sockets": {
+        "grip_primary": [
+          0.0,
+          0.0,
+          0.0
+        ],
+        "grip_secondary": [
+          0.0,
+          0.018,
+          -0.22
+        ],
+        "muzzle_socket": [
+          0.0,
+          0.085,
+          -0.62
+        ],
+        "magazine_socket": [
+          0.0,
+          -0.03,
+          -0.16
+        ],
+        "scope_mount": [
+          0.0,
+          0.14,
+          -0.11
+        ],
+        "shell_eject_socket": [
+          0.036,
+          0.085,
+          -0.11
+        ]
+      },
+      "license": "CC0 1.0 / MIT (100% Original NIRMA: PROTOCOL Clean-Room Asset)",
+      "ip_safe_verified": true,
+      "validation_passed": true
+    },
+    {
+      "asset_id": "weapon_breacher_sg",
+      "name": "Breacher-12 Tactical Shotgun",
+      "valorant_archetype": "Bucky / Judge",
+      "category": "weapon_model",
+      "file": "assets/models/weapons/weapon_breacher_sg.glb",
+      "size_bytes": 9888,
+      "triangles": 72,
+      "bones_or_sockets": 6,
+      "sockets": {
+        "grip_primary": [
+          0.0,
+          0.0,
+          0.0
+        ],
+        "grip_secondary": [
+          0.0,
+          0.045,
+          -0.36
+        ],
+        "muzzle_socket": [
+          0.0,
+          0.088,
+          -0.74
+        ],
+        "magazine_socket": [
+          0.0,
+          0.055,
+          -0.38
+        ],
+        "scope_mount": [
+          0.0,
+          0.135,
+          -0.12
+        ],
+        "shell_eject_socket": [
+          0.039,
+          0.088,
+          -0.14
+        ]
+      },
+      "license": "CC0 1.0 / MIT (100% Original NIRMA: PROTOCOL Clean-Room Asset)",
+      "ip_safe_verified": true,
+      "validation_passed": true
+    },
+    {
+      "asset_id": "weapon_agni_lmg",
+      "name": "Agni-M249 Heavy Squad LMG",
+      "valorant_archetype": "Odin / Ares",
+      "category": "weapon_model",
+      "file": "assets/models/weapons/weapon_agni_lmg.glb",
+      "size_bytes": 9868,
+      "triangles": 72,
+      "bones_or_sockets": 6,
+      "sockets": {
+        "grip_primary": [
+          0.0,
+          0.0,
+          0.0
+        ],
+        "grip_secondary": [
+          0.0,
+          0.02,
+          -0.3
+        ],
+        "muzzle_socket": [
+          0.0,
+          0.09,
+          -0.82
+        ],
+        "magazine_socket": [
+          0.0,
+          -0.03,
+          -0.2
+        ],
+        "scope_mount": [
+          0.0,
+          0.148,
+          -0.14
+        ],
+        "shell_eject_socket": [
+          0.044,
+          0.09,
+          -0.15
+        ]
+      },
+      "license": "CC0 1.0 / MIT (100% Original NIRMA: PROTOCOL Clean-Room Asset)",
+      "ip_safe_verified": true,
+      "validation_passed": true
+    },
+    {
+      "asset_id": "weapon_garuda_dmr",
+      "name": "Garuda-SR Precision Marksman DMR",
+      "valorant_archetype": "Guardian",
+      "category": "weapon_model",
+      "file": "assets/models/weapons/weapon_garuda_dmr.glb",
+      "size_bytes": 9908,
+      "triangles": 72,
+      "bones_or_sockets": 6,
+      "sockets": {
+        "grip_primary": [
+          0.0,
+          0.0,
+          0.0
+        ],
+        "grip_secondary": [
+          0.0,
+          0.025,
+          -0.29
+        ],
+        "muzzle_socket": [
+          0.0,
+          0.09,
+          -0.88
+        ],
+        "magazine_socket": [
+          0.0,
+          -0.022,
+          -0.19
+        ],
+        "scope_mount": [
+          0.0,
+          0.168,
+          -0.14
+        ],
+        "shell_eject_socket": [
+          0.039,
+          0.09,
+          -0.14
+        ]
+      },
+      "license": "CC0 1.0 / MIT (100% Original NIRMA: PROTOCOL Clean-Room Asset)",
+      "ip_safe_verified": true,
+      "validation_passed": true
+    },
+    {
+      "asset_id": "weapon_vajra_sniper",
+      "name": "Shikhara-AWM Anti-Materiel Sniper",
+      "valorant_archetype": "Operator",
+      "category": "weapon_model",
+      "file": "assets/models/weapons/weapon_vajra_sniper.glb",
+      "size_bytes": 9908,
+      "triangles": 72,
+      "bones_or_sockets": 6,
+      "sockets": {
+        "grip_primary": [
+          0.0,
+          0.0,
+          0.0
+        ],
+        "grip_secondary": [
+          0.0,
+          0.025,
+          -0.32
+        ],
+        "muzzle_socket": [
+          0.0,
+          0.092,
+          -0.96
+        ],
+        "magazine_socket": [
+          0.0,
+          -0.022,
+          -0.19
+        ],
+        "scope_mount": [
+          0.0,
+          0.172,
+          -0.15
+        ],
+        "shell_eject_socket": [
+          0.041,
+          0.092,
+          -0.14
+        ]
+      },
+      "license": "CC0 1.0 / MIT (100% Original NIRMA: PROTOCOL Clean-Room Asset)",
+      "ip_safe_verified": true,
+      "validation_passed": true
+    },
+    {
+      "asset_id": "weapon_sidearm_9mm",
+      "name": "Chetak-9 Tactical Service Pistol",
+      "valorant_archetype": "Classic",
+      "category": "weapon_model",
+      "file": "assets/models/weapons/weapon_sidearm_9mm.glb",
+      "size_bytes": 9884,
+      "triangles": 72,
+      "bones_or_sockets": 6,
+      "sockets": {
+        "grip_primary": [
+          0.0,
+          0.0,
+          0.0
+        ],
+        "grip_secondary": [
+          -0.024,
+          -0.005,
+          -0.015
+        ],
+        "muzzle_socket": [
+          0.0,
+          0.088,
+          -0.24
+        ],
+        "magazine_socket": [
+          0.0,
+          -0.005,
+          0.0
+        ],
+        "scope_mount": [
+          0.0,
+          0.118,
+          -0.04
+        ],
+        "shell_eject_socket": [
+          0.025,
+          0.095,
+          -0.05
+        ]
+      },
+      "license": "CC0 1.0 / MIT (100% Original NIRMA: PROTOCOL Clean-Room Asset)",
+      "ip_safe_verified": true,
+      "validation_passed": true
+    },
+    {
+      "asset_id": "weapon_chhaya_pistol",
+      "name": "Chhaya-S Suppressed Ghost Pistol",
+      "valorant_archetype": "Ghost",
+      "category": "weapon_model",
+      "file": "assets/models/weapons/weapon_chhaya_pistol.glb",
+      "size_bytes": 9900,
+      "triangles": 72,
+      "bones_or_sockets": 6,
+      "sockets": {
+        "grip_primary": [
+          0.0,
+          0.0,
+          0.0
+        ],
+        "grip_secondary": [
+          -0.024,
+          -0.005,
+          -0.015
+        ],
+        "muzzle_socket": [
+          0.0,
+          0.088,
+          -0.36
+        ],
+        "magazine_socket": [
+          0.0,
+          -0.005,
+          0.0
+        ],
+        "scope_mount": [
+          0.0,
+          0.118,
+          -0.04
+        ],
+        "shell_eject_socket": [
+          0.025,
+          0.095,
+          -0.05
+        ]
+      },
+      "license": "CC0 1.0 / MIT (100% Original NIRMA: PROTOCOL Clean-Room Asset)",
+      "ip_safe_verified": true,
+      "validation_passed": true
+    },
+    {
+      "asset_id": "weapon_rudra_revolver",
+      "name": "Rudra-357 Heavy Magnum Sheriff",
+      "valorant_archetype": "Sheriff",
+      "category": "weapon_model",
+      "file": "assets/models/weapons/weapon_rudra_revolver.glb",
+      "size_bytes": 9928,
+      "triangles": 72,
+      "bones_or_sockets": 6,
+      "sockets": {
+        "grip_primary": [
+          0.0,
+          0.0,
+          0.0
+        ],
+        "grip_secondary": [
+          -0.024,
+          -0.005,
+          -0.015
+        ],
+        "muzzle_socket": [
+          0.0,
+          0.095,
+          -0.31
+        ],
+        "magazine_socket": [
+          0.0,
+          0.088,
+          -0.06
+        ],
+        "scope_mount": [
+          0.0,
+          0.125,
+          -0.14
+        ],
+        "shell_eject_socket": [
+          0.032,
+          0.088,
+          -0.06
+        ]
+      },
+      "license": "CC0 1.0 / MIT (100% Original NIRMA: PROTOCOL Clean-Room Asset)",
+      "ip_safe_verified": true,
+      "validation_passed": true
+    },
+    {
+      "asset_id": "weapon_katar_knife",
+      "name": "Katar-Prime Plasma Push-Dagger",
+      "valorant_archetype": "Tactical Melee",
+      "category": "weapon_model",
+      "file": "assets/models/weapons/weapon_katar_knife.glb",
+      "size_bytes": 9864,
+      "triangles": 72,
+      "bones_or_sockets": 6,
+      "sockets": {
+        "grip_primary": [
+          0.0,
+          0.0,
+          0.0
+        ],
+        "grip_secondary": [
+          -0.14,
+          -0.02,
+          -0.12
+        ],
+        "muzzle_socket": [
+          0.0,
+          0.01,
+          -0.3
+        ],
+        "magazine_socket": [
+          0.0,
+          0.0,
+          0.0
+        ],
+        "scope_mount": [
+          0.0,
+          0.03,
+          -0.06
+        ],
+        "shell_eject_socket": [
+          0.0,
+          0.0,
+          0.0
+        ]
+      },
+      "license": "CC0 1.0 / MIT (100% Original NIRMA: PROTOCOL Clean-Room Asset)",
+      "ip_safe_verified": true,
+      "validation_passed": true
+    }
+  ]
+}

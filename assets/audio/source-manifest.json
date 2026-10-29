@@ -1,0 +1,5261 @@
+[
+  {
+    "file": "footsteps_clean_faster.mp3",
+    "abs_path": "/tmp/nirma_audio_work/raw_audio/footsteps_clean_faster.mp3",
+    "duration_s": 13.152,
+    "sample_rate": 48000,
+    "channels": 2,
+    "size_bytes": 421677,
+    "peak_db": 1.9,
+    "rms_db": -20.6,
+    "lead_silence_s": 0.13,
+    "active_end_s": 12.925,
+    "num_bursts": 29,
+    "bursts": [
+      {
+        "start_s": 0.13,
+        "end_s": 0.225,
+        "dur_s": 0.095,
+        "peak_db": -6.6
+      },
+      {
+        "start_s": 0.605,
+        "end_s": 0.705,
+        "dur_s": 0.1,
+        "peak_db": -7.3
+      },
+      {
+        "start_s": 1.115,
+        "end_s": 1.215,
+        "dur_s": 0.1,
+        "peak_db": -7.5
+      },
+      {
+        "start_s": 1.57,
+        "end_s": 1.675,
+        "dur_s": 0.105,
+        "peak_db": -6.3
+      },
+      {
+        "start_s": 2.01,
+        "end_s": 2.11,
+        "dur_s": 0.1,
+        "peak_db": -7.8
+      },
+      {
+        "start_s": 2.49,
+        "end_s": 2.59,
+        "dur_s": 0.1,
+        "peak_db": -6.5
+      },
+      {
+        "start_s": 2.935,
+        "end_s": 3.04,
+        "dur_s": 0.105,
+        "peak_db": -3.1
+      },
+      {
+        "start_s": 3.385,
+        "end_s": 3.475,
+        "dur_s": 0.09,
+        "peak_db": -7.7
+      },
+      {
+        "start_s": 3.83,
+        "end_s": 3.925,
+        "dur_s": 0.095,
+        "peak_db": -3.7
+      },
+      {
+        "start_s": 4.285,
+        "end_s": 4.38,
+        "dur_s": 0.095,
+        "peak_db": -6.2
+      },
+      {
+        "start_s": 4.73,
+        "end_s": 4.825,
+        "dur_s": 0.095,
+        "peak_db": -5.0
+      },
+      {
+        "start_s": 5.185,
+        "end_s": 5.28,
+        "dur_s": 0.095,
+        "peak_db": -5.7
+      },
+      {
+        "start_s": 5.61,
+        "end_s": 5.705,
+        "dur_s": 0.095,
+        "peak_db": -5.9
+      },
+      {
+        "start_s": 6.08,
+        "end_s": 6.185,
+        "dur_s": 0.105,
+        "peak_db": -8.7
+      },
+      {
+        "start_s": 6.565,
+        "end_s": 6.655,
+        "dur_s": 0.09,
+        "peak_db": -6.5
+      },
+      {
+        "start_s": 7.04,
+        "end_s": 7.135,
+        "dur_s": 0.095,
+        "peak_db": -6.0
+      },
+      {
+        "start_s": 7.45,
+        "end_s": 7.55,
+        "dur_s": 0.1,
+        "peak_db": -8.7
+      },
+      {
+        "start_s": 7.93,
+        "end_s": 8.01,
+        "dur_s": 0.08,
+        "peak_db": -3.0
+      },
+      {
+        "start_s": 8.355,
+        "end_s": 8.46,
+        "dur_s": 0.105,
+        "peak_db": -8.1
+      },
+      {
+        "start_s": 8.81,
+        "end_s": 8.9,
+        "dur_s": 0.09,
+        "peak_db": -4.2
+      },
+      {
+        "start_s": 9.265,
+        "end_s": 9.355,
+        "dur_s": 0.09,
+        "peak_db": -6.2
+      },
+      {
+        "start_s": 9.72,
+        "end_s": 9.815,
+        "dur_s": 0.095,
+        "peak_db": -3.3
+      },
+      {
+        "start_s": 10.15,
+        "end_s": 10.25,
+        "dur_s": 0.1,
+        "peak_db": -6.3
+      },
+      {
+        "start_s": 10.62,
+        "end_s": 10.725,
+        "dur_s": 0.105,
+        "peak_db": -8.2
+      },
+      {
+        "start_s": 11.04,
+        "end_s": 11.145,
+        "dur_s": 0.105,
+        "peak_db": -8.0
+      },
+      {
+        "start_s": 11.495,
+        "end_s": 11.6,
+        "dur_s": 0.105,
+        "peak_db": -5.7
+      },
+      {
+        "start_s": 11.945,
+        "end_s": 12.04,
+        "dur_s": 0.095,
+        "peak_db": -4.0
+      },
+      {
+        "start_s": 12.39,
+        "end_s": 12.485,
+        "dur_s": 0.095,
+        "peak_db": -5.3
+      },
+      {
+        "start_s": 12.8,
+        "end_s": 12.91,
+        "dur_s": 0.11,
+        "peak_db": -6.6
+      }
+    ]
+  },
+  {
+    "file": "oxidvideos-weapon-cocking-618522.mp3",
+    "abs_path": "/tmp/nirma_audio_work/raw_audio/oxidvideos-weapon-cocking-618522.mp3",
+    "duration_s": 1.2,
+    "sample_rate": 48000,
+    "channels": 2,
+    "size_bytes": 38400,
+    "peak_db": -3.57,
+    "rms_db": -34.51,
+    "lead_silence_s": 0.145,
+    "active_end_s": 0.735,
+    "num_bursts": 4,
+    "bursts": [
+      {
+        "start_s": 0.145,
+        "end_s": 0.19,
+        "dur_s": 0.045,
+        "peak_db": -16.1
+      },
+      {
+        "start_s": 0.235,
+        "end_s": 0.26,
+        "dur_s": 0.025,
+        "peak_db": -16.5
+      },
+      {
+        "start_s": 0.59,
+        "end_s": 0.655,
+        "dur_s": 0.065,
+        "peak_db": -19.1
+      },
+      {
+        "start_s": 0.71,
+        "end_s": 0.735,
+        "dur_s": 0.025,
+        "peak_db": -22.5
+      }
+    ]
+  },
+  {
+    "file": "sound_effects_pack/Sound Effects Pack/Weapons/LMGs/aresReload.mp3",
+    "abs_path": "/tmp/nirma_audio_work/raw_audio/sound_effects_pack/Sound Effects Pack/Weapons/LMGs/aresReload.mp3",
+    "duration_s": 3.0302,
+    "sample_rate": 44100,
+    "channels": 2,
+    "size_bytes": 70779,
+    "peak_db": -13.61,
+    "rms_db": -33.8,
+    "lead_silence_s": 0.025,
+    "active_end_s": 2.745,
+    "num_bursts": 9,
+    "bursts": [
+      {
+        "start_s": 0.025,
+        "end_s": 0.685,
+        "dur_s": 0.66,
+        "peak_db": -21.8
+      },
+      {
+        "start_s": 0.955,
+        "end_s": 1.045,
+        "dur_s": 0.09,
+        "peak_db": -25.1
+      },
+      {
+        "start_s": 1.175,
+        "end_s": 1.385,
+        "dur_s": 0.21,
+        "peak_db": -22.7
+      },
+      {
+        "start_s": 1.47,
+        "end_s": 1.485,
+        "dur_s": 0.015,
+        "peak_db": -39.9
+      },
+      {
+        "start_s": 1.54,
+        "end_s": 1.595,
+        "dur_s": 0.055,
+        "peak_db": -37.6
+      },
+      {
+        "start_s": 1.66,
+        "end_s": 1.72,
+        "dur_s": 0.06,
+        "peak_db": -34.2
+      },
+      {
+        "start_s": 1.885,
+        "end_s": 2.095,
+        "dur_s": 0.21,
+        "peak_db": -24.5
+      },
+      {
+        "start_s": 2.3,
+        "end_s": 2.49,
+        "dur_s": 0.19,
+        "peak_db": -22.0
+      },
+      {
+        "start_s": 2.61,
+        "end_s": 2.63,
+        "dur_s": 0.02,
+        "peak_db": -35.8
+      }
+    ]
+  },
+  {
+    "file": "sound_effects_pack/Sound Effects Pack/Weapons/LMGs/aresSpray.mp3",
+    "abs_path": "/tmp/nirma_audio_work/raw_audio/sound_effects_pack/Sound Effects Pack/Weapons/LMGs/aresSpray.mp3",
+    "duration_s": 7.7322,
+    "sample_rate": 44100,
+    "channels": 2,
+    "size_bytes": 109426,
+    "peak_db": -1.09,
+    "rms_db": -12.54,
+    "lead_silence_s": 0.025,
+    "active_end_s": 7.715,
+    "num_bursts": 1,
+    "bursts": [
+      {
+        "start_s": 0.025,
+        "end_s": 7.715,
+        "dur_s": 7.69,
+        "peak_db": -5.9
+      }
+    ]
+  },
+  {
+    "file": "sound_effects_pack/Sound Effects Pack/Weapons/LMGs/aresTap.mp3",
+    "abs_path": "/tmp/nirma_audio_work/raw_audio/sound_effects_pack/Sound Effects Pack/Weapons/LMGs/aresTap.mp3",
+    "duration_s": 1.8808,
+    "sample_rate": 44100,
+    "channels": 2,
+    "size_bytes": 26522,
+    "peak_db": -5.65,
+    "rms_db": -23.85,
+    "lead_silence_s": 0.03,
+    "active_end_s": 1.165,
+    "num_bursts": 1,
+    "bursts": [
+      {
+        "start_s": 0.025,
+        "end_s": 1.045,
+        "dur_s": 1.02,
+        "peak_db": -9.8
+      }
+    ]
+  },
+  {
+    "file": "sound_effects_pack/Sound Effects Pack/Weapons/LMGs/odinReload.mp3",
+    "abs_path": "/tmp/nirma_audio_work/raw_audio/sound_effects_pack/Sound Effects Pack/Weapons/LMGs/odinReload.mp3",
+    "duration_s": 8.8294,
+    "sample_rate": 44100,
+    "channels": 2,
+    "size_bytes": 175259,
+    "peak_db": -14.07,
+    "rms_db": -34.56,
+    "lead_silence_s": 0.025,
+    "active_end_s": 8.8,
+    "num_bursts": 16,
+    "bursts": [
+      {
+        "start_s": 0.025,
+        "end_s": 1.335,
+        "dur_s": 1.31,
+        "peak_db": -21.2
+      },
+      {
+        "start_s": 1.39,
+        "end_s": 1.57,
+        "dur_s": 0.18,
+        "peak_db": -37.9
+      },
+      {
+        "start_s": 1.61,
+        "end_s": 1.73,
+        "dur_s": 0.12,
+        "peak_db": -31.5
+      },
+      {
+        "start_s": 1.86,
+        "end_s": 2.01,
+        "dur_s": 0.15,
+        "peak_db": -32.2
+      },
+      {
+        "start_s": 2.455,
+        "end_s": 2.495,
+        "dur_s": 0.04,
+        "peak_db": -40.2
+      },
+      {
+        "start_s": 2.545,
+        "end_s": 2.735,
+        "dur_s": 0.19,
+        "peak_db": -24.3
+      },
+      {
+        "start_s": 3.08,
+        "end_s": 3.135,
+        "dur_s": 0.055,
+        "peak_db": -37.1
+      },
+      {
+        "start_s": 3.375,
+        "end_s": 3.625,
+        "dur_s": 0.25,
+        "peak_db": -22.0
+      },
+      {
+        "start_s": 3.715,
+        "end_s": 3.96,
+        "dur_s": 0.245,
+        "peak_db": -22.3
+      },
+      {
+        "start_s": 5.445,
+        "end_s": 5.76,
+        "dur_s": 0.315,
+        "peak_db": -32.7
+      },
+      {
+        "start_s": 6.08,
+        "end_s": 6.255,
+        "dur_s": 0.175,
+        "peak_db": -34.8
+      },
+      {
+        "start_s": 6.465,
+        "end_s": 6.535,
+        "dur_s": 0.07,
+        "peak_db": -29.7
+      },
+      {
+        "start_s": 6.575,
+        "end_s": 6.73,
+        "dur_s": 0.155,
+        "peak_db": -31.4
+      },
+      {
+        "start_s": 6.795,
+        "end_s": 6.89,
+        "dur_s": 0.095,
+        "peak_db": -31.9
+      },
+      {
+        "start_s": 8.055,
+        "end_s": 8.315,
+        "dur_s": 0.26,
+        "peak_db": -25.9
+      },
+      {
+        "start_s": 8.755,
+        "end_s": 8.82,
+        "dur_s": 0.065,
+        "peak_db": -31.4
+      }
+    ]
+  },
+  {
+    "file": "sound_effects_pack/Sound Effects Pack/Weapons/LMGs/odinSpray.mp3",
+    "abs_path": "/tmp/nirma_audio_work/raw_audio/sound_effects_pack/Sound Effects Pack/Weapons/LMGs/odinSpray.mp3",
+    "duration_s": 6.5306,
+    "sample_rate": 44100,
+    "channels": 2,
+    "size_bytes": 152289,
+    "peak_db": -5.95,
+    "rms_db": -17.36,
+    "lead_silence_s": 0.025,
+    "active_end_s": 6.505,
+    "num_bursts": 1,
+    "bursts": [
+      {
+        "start_s": 0.025,
+        "end_s": 6.515,
+        "dur_s": 6.49,
+        "peak_db": -9.4
+      }
+    ]
+  },
+  {
+    "file": "sound_effects_pack/Sound Effects Pack/Weapons/LMGs/odinTap.mp3",
+    "abs_path": "/tmp/nirma_audio_work/raw_audio/sound_effects_pack/Sound Effects Pack/Weapons/LMGs/odinTap.mp3",
+    "duration_s": 0.1567,
+    "sample_rate": 44100,
+    "channels": 2,
+    "size_bytes": 4932,
+    "peak_db": -6.16,
+    "rms_db": -18.94,
+    "lead_silence_s": 0.025,
+    "active_end_s": 0.11,
+    "num_bursts": 1,
+    "bursts": [
+      {
+        "start_s": 0.025,
+        "end_s": 0.11,
+        "dur_s": 0.085,
+        "peak_db": -13.0
+      }
+    ]
+  },
+  {
+    "file": "sound_effects_pack/Sound Effects Pack/Weapons/Shotguns/buckyReload.mp3",
+    "abs_path": "/tmp/nirma_audio_work/raw_audio/sound_effects_pack/Sound Effects Pack/Weapons/Shotguns/buckyReload.mp3",
+    "duration_s": 4.2057,
+    "sample_rate": 44100,
+    "channels": 2,
+    "size_bytes": 81904,
+    "peak_db": -20.81,
+    "rms_db": -38.6,
+    "lead_silence_s": 0.025,
+    "active_end_s": 3.775,
+    "num_bursts": 10,
+    "bursts": [
+      {
+        "start_s": 0.025,
+        "end_s": 0.78,
+        "dur_s": 0.755,
+        "peak_db": -25.3
+      },
+      {
+        "start_s": 0.975,
+        "end_s": 1.15,
+        "dur_s": 0.175,
+        "peak_db": -33.3
+      },
+      {
+        "start_s": 1.485,
+        "end_s": 1.61,
+        "dur_s": 0.125,
+        "peak_db": -32.2
+      },
+      {
+        "start_s": 1.905,
+        "end_s": 1.915,
+        "dur_s": 0.01,
+        "peak_db": -37.7
+      },
+      {
+        "start_s": 1.955,
+        "end_s": 2.075,
+        "dur_s": 0.12,
+        "peak_db": -34.2
+      },
+      {
+        "start_s": 2.375,
+        "end_s": 2.55,
+        "dur_s": 0.175,
+        "peak_db": -34.8
+      },
+      {
+        "start_s": 2.835,
+        "end_s": 2.87,
+        "dur_s": 0.035,
+        "peak_db": -30.8
+      },
+      {
+        "start_s": 3.155,
+        "end_s": 3.315,
+        "dur_s": 0.16,
+        "peak_db": -29.9
+      },
+      {
+        "start_s": 3.425,
+        "end_s": 3.585,
+        "dur_s": 0.16,
+        "peak_db": -29.3
+      },
+      {
+        "start_s": 3.735,
+        "end_s": 3.765,
+        "dur_s": 0.03,
+        "peak_db": -40.8
+      }
+    ]
+  },
+  {
+    "file": "sound_effects_pack/Sound Effects Pack/Weapons/Shotguns/buckySpray.mp3",
+    "abs_path": "/tmp/nirma_audio_work/raw_audio/sound_effects_pack/Sound Effects Pack/Weapons/Shotguns/buckySpray.mp3",
+    "duration_s": 6.2955,
+    "sample_rate": 44100,
+    "channels": 2,
+    "size_bytes": 84886,
+    "peak_db": -2.62,
+    "rms_db": -17.92,
+    "lead_silence_s": 0.015,
+    "active_end_s": 6.195,
+    "num_bursts": 2,
+    "bursts": [
+      {
+        "start_s": 0.015,
+        "end_s": 6.025,
+        "dur_s": 6.01,
+        "peak_db": -6.1
+      },
+      {
+        "start_s": 6.095,
+        "end_s": 6.12,
+        "dur_s": 0.025,
+        "peak_db": -36.1
+      }
+    ]
+  },
+  {
+    "file": "sound_effects_pack/Sound Effects Pack/Weapons/Shotguns/buckyTap.mp3",
+    "abs_path": "/tmp/nirma_audio_work/raw_audio/sound_effects_pack/Sound Effects Pack/Weapons/Shotguns/buckyTap.mp3",
+    "duration_s": 2.4816,
+    "sample_rate": 44100,
+    "channels": 2,
+    "size_bytes": 31820,
+    "peak_db": -5.13,
+    "rms_db": -20.21,
+    "lead_silence_s": 0.035,
+    "active_end_s": 1.845,
+    "num_bursts": 1,
+    "bursts": [
+      {
+        "start_s": 0.035,
+        "end_s": 1.695,
+        "dur_s": 1.66,
+        "peak_db": -9.0
+      }
+    ]
+  },
+  {
+    "file": "sound_effects_pack/Sound Effects Pack/Weapons/Shotguns/judgeReload.mp3",
+    "abs_path": "/tmp/nirma_audio_work/raw_audio/sound_effects_pack/Sound Effects Pack/Weapons/Shotguns/judgeReload.mp3",
+    "duration_s": 2.1682,
+    "sample_rate": 44100,
+    "channels": 2,
+    "size_bytes": 47558,
+    "peak_db": -18.21,
+    "rms_db": -34.99,
+    "lead_silence_s": 0.025,
+    "active_end_s": 2.065,
+    "num_bursts": 6,
+    "bursts": [
+      {
+        "start_s": 0.025,
+        "end_s": 0.4,
+        "dur_s": 0.375,
+        "peak_db": -25.6
+      },
+      {
+        "start_s": 0.51,
+        "end_s": 0.8,
+        "dur_s": 0.29,
+        "peak_db": -26.1
+      },
+      {
+        "start_s": 0.95,
+        "end_s": 1.165,
+        "dur_s": 0.215,
+        "peak_db": -25.9
+      },
+      {
+        "start_s": 1.495,
+        "end_s": 1.65,
+        "dur_s": 0.155,
+        "peak_db": -27.1
+      },
+      {
+        "start_s": 1.76,
+        "end_s": 1.895,
+        "dur_s": 0.135,
+        "peak_db": -27.1
+      },
+      {
+        "start_s": 2.0,
+        "end_s": 2.065,
+        "dur_s": 0.065,
+        "peak_db": -30.9
+      }
+    ]
+  },
+  {
+    "file": "sound_effects_pack/Sound Effects Pack/Weapons/Shotguns/judgeSpray.mp3",
+    "abs_path": "/tmp/nirma_audio_work/raw_audio/sound_effects_pack/Sound Effects Pack/Weapons/Shotguns/judgeSpray.mp3",
+    "duration_s": 3.6049,
+    "sample_rate": 44100,
+    "channels": 2,
+    "size_bytes": 53589,
+    "peak_db": -3.05,
+    "rms_db": -17.05,
+    "lead_silence_s": 0.025,
+    "active_end_s": 2.32,
+    "num_bursts": 1,
+    "bursts": [
+      {
+        "start_s": 0.025,
+        "end_s": 2.19,
+        "dur_s": 2.165,
+        "peak_db": -7.4
+      }
+    ]
+  },
+  {
+    "file": "sound_effects_pack/Sound Effects Pack/Weapons/Shotguns/judgeTap.mp3",
+    "abs_path": "/tmp/nirma_audio_work/raw_audio/sound_effects_pack/Sound Effects Pack/Weapons/Shotguns/judgeTap.mp3",
+    "duration_s": 1.6718,
+    "sample_rate": 44100,
+    "channels": 2,
+    "size_bytes": 23603,
+    "peak_db": -4.35,
+    "rms_db": -21.12,
+    "lead_silence_s": 0.02,
+    "active_end_s": 1.05,
+    "num_bursts": 1,
+    "bursts": [
+      {
+        "start_s": 0.02,
+        "end_s": 0.765,
+        "dur_s": 0.745,
+        "peak_db": -9.9
+      }
+    ]
+  },
+  {
+    "file": "sound_effects_pack/Sound Effects Pack/Weapons/Shotguns/shortyReload.mp3",
+    "abs_path": "/tmp/nirma_audio_work/raw_audio/sound_effects_pack/Sound Effects Pack/Weapons/Shotguns/shortyReload.mp3",
+    "duration_s": 2.1943,
+    "sample_rate": 44100,
+    "channels": 2,
+    "size_bytes": 45361,
+    "peak_db": -10.23,
+    "rms_db": -31.44,
+    "lead_silence_s": 0.025,
+    "active_end_s": 2.04,
+    "num_bursts": 4,
+    "bursts": [
+      {
+        "start_s": 0.025,
+        "end_s": 1.05,
+        "dur_s": 1.025,
+        "peak_db": -15.0
+      },
+      {
+        "start_s": 1.125,
+        "end_s": 1.32,
+        "dur_s": 0.195,
+        "peak_db": -34.7
+      },
+      {
+        "start_s": 1.365,
+        "end_s": 1.7,
+        "dur_s": 0.335,
+        "peak_db": -26.3
+      },
+      {
+        "start_s": 1.775,
+        "end_s": 1.82,
+        "dur_s": 0.045,
+        "peak_db": -41.4
+      }
+    ]
+  },
+  {
+    "file": "sound_effects_pack/Sound Effects Pack/Weapons/Shotguns/shortySpray.mp3",
+    "abs_path": "/tmp/nirma_audio_work/raw_audio/sound_effects_pack/Sound Effects Pack/Weapons/Shotguns/shortySpray.mp3",
+    "duration_s": 2.3249,
+    "sample_rate": 44100,
+    "channels": 2,
+    "size_bytes": 29551,
+    "peak_db": -6.36,
+    "rms_db": -20.21,
+    "lead_silence_s": 0.015,
+    "active_end_s": 2.285,
+    "num_bursts": 1,
+    "bursts": [
+      {
+        "start_s": 0.015,
+        "end_s": 2.29,
+        "dur_s": 2.275,
+        "peak_db": -10.8
+      }
+    ]
+  },
+  {
+    "file": "sound_effects_pack/Sound Effects Pack/Weapons/Shotguns/shortyTap.mp3",
+    "abs_path": "/tmp/nirma_audio_work/raw_audio/sound_effects_pack/Sound Effects Pack/Weapons/Shotguns/shortyTap.mp3",
+    "duration_s": 1.9853,
+    "sample_rate": 44100,
+    "channels": 2,
+    "size_bytes": 23608,
+    "peak_db": -6.33,
+    "rms_db": -22.47,
+    "lead_silence_s": 0.01,
+    "active_end_s": 1.765,
+    "num_bursts": 2,
+    "bursts": [
+      {
+        "start_s": 0.01,
+        "end_s": 1.195,
+        "dur_s": 1.185,
+        "peak_db": -10.2
+      },
+      {
+        "start_s": 1.235,
+        "end_s": 1.47,
+        "dur_s": 0.235,
+        "peak_db": -31.3
+      }
+    ]
+  },
+  {
+    "file": "sound_effects_pack/Sound Effects Pack/Weapons/Melee/knifePullOut.mp3",
+    "abs_path": "/tmp/nirma_audio_work/raw_audio/sound_effects_pack/Sound Effects Pack/Weapons/Melee/knifePullOut.mp3",
+    "duration_s": 0.2351,
+    "sample_rate": 44100,
+    "channels": 2,
+    "size_bytes": 5292,
+    "peak_db": -19.32,
+    "rms_db": -34.18,
+    "lead_silence_s": 0.01,
+    "active_end_s": 0.19,
+    "num_bursts": 1,
+    "bursts": [
+      {
+        "start_s": 0.01,
+        "end_s": 0.2,
+        "dur_s": 0.19,
+        "peak_db": -29.1
+      }
+    ]
+  },
+  {
+    "file": "sound_effects_pack/Sound Effects Pack/Weapons/Melee/knifeStab.mp3",
+    "abs_path": "/tmp/nirma_audio_work/raw_audio/sound_effects_pack/Sound Effects Pack/Weapons/Melee/knifeStab.mp3",
+    "duration_s": 0.2351,
+    "sample_rate": 44100,
+    "channels": 2,
+    "size_bytes": 5661,
+    "peak_db": -20.26,
+    "rms_db": -35.39,
+    "lead_silence_s": 0.005,
+    "active_end_s": 0.16,
+    "num_bursts": 1,
+    "bursts": [
+      {
+        "start_s": 0.0,
+        "end_s": 0.14,
+        "dur_s": 0.14,
+        "peak_db": -28.3
+      }
+    ]
+  },
+  {
+    "file": "sound_effects_pack/Sound Effects Pack/Weapons/Melee/knifeSwing.mp3",
+    "abs_path": "/tmp/nirma_audio_work/raw_audio/sound_effects_pack/Sound Effects Pack/Weapons/Melee/knifeSwing.mp3",
+    "duration_s": 0.1829,
+    "sample_rate": 44100,
+    "channels": 2,
+    "size_bytes": 4514,
+    "peak_db": -23.27,
+    "rms_db": -36.69,
+    "lead_silence_s": 0.02,
+    "active_end_s": 0.13,
+    "num_bursts": 1,
+    "bursts": [
+      {
+        "start_s": 0.02,
+        "end_s": 0.105,
+        "dur_s": 0.085,
+        "peak_db": -30.5
+      }
+    ]
+  },
+  {
+    "file": "sound_effects_pack/Sound Effects Pack/Weapons/Rifles/bulldogReload.mp3",
+    "abs_path": "/tmp/nirma_audio_work/raw_audio/sound_effects_pack/Sound Effects Pack/Weapons/Rifles/bulldogReload.mp3",
+    "duration_s": 2.4033,
+    "sample_rate": 44100,
+    "channels": 2,
+    "size_bytes": 48808,
+    "peak_db": -12.77,
+    "rms_db": -34.01,
+    "lead_silence_s": 0.025,
+    "active_end_s": 2.16,
+    "num_bursts": 6,
+    "bursts": [
+      {
+        "start_s": 0.025,
+        "end_s": 0.21,
+        "dur_s": 0.185,
+        "peak_db": -25.6
+      },
+      {
+        "start_s": 0.405,
+        "end_s": 0.58,
+        "dur_s": 0.175,
+        "peak_db": -23.6
+      },
+      {
+        "start_s": 1.135,
+        "end_s": 1.175,
+        "dur_s": 0.04,
+        "peak_db": -26.5
+      },
+      {
+        "start_s": 1.315,
+        "end_s": 1.46,
+        "dur_s": 0.145,
+        "peak_db": -20.8
+      },
+      {
+        "start_s": 1.725,
+        "end_s": 2.05,
+        "dur_s": 0.325,
+        "peak_db": -21.7
+      },
+      {
+        "start_s": 2.11,
+        "end_s": 2.155,
+        "dur_s": 0.045,
+        "peak_db": -34.9
+      }
+    ]
+  },
+  {
+    "file": "sound_effects_pack/Sound Effects Pack/Weapons/Rifles/bulldogSpray.mp3",
+    "abs_path": "/tmp/nirma_audio_work/raw_audio/sound_effects_pack/Sound Effects Pack/Weapons/Rifles/bulldogSpray.mp3",
+    "duration_s": 2.0114,
+    "sample_rate": 44100,
+    "channels": 2,
+    "size_bytes": 30901,
+    "peak_db": -2.35,
+    "rms_db": -16.43,
+    "lead_silence_s": 0.03,
+    "active_end_s": 1.605,
+    "num_bursts": 1,
+    "bursts": [
+      {
+        "start_s": 0.03,
+        "end_s": 1.265,
+        "dur_s": 1.235,
+        "peak_db": -6.9
+      }
+    ]
+  },
+  {
+    "file": "sound_effects_pack/Sound Effects Pack/Weapons/Rifles/bulldogTap.mp3",
+    "abs_path": "/tmp/nirma_audio_work/raw_audio/sound_effects_pack/Sound Effects Pack/Weapons/Rifles/bulldogTap.mp3",
+    "duration_s": 1.0188,
+    "sample_rate": 44100,
+    "channels": 2,
+    "size_bytes": 14629,
+    "peak_db": -5.01,
+    "rms_db": -22.26,
+    "lead_silence_s": 0.005,
+    "active_end_s": 0.555,
+    "num_bursts": 1,
+    "bursts": [
+      {
+        "start_s": 0.0,
+        "end_s": 0.495,
+        "dur_s": 0.495,
+        "peak_db": -9.0
+      }
+    ]
+  },
+  {
+    "file": "sound_effects_pack/Sound Effects Pack/Weapons/Rifles/guardianReload.mp3",
+    "abs_path": "/tmp/nirma_audio_work/raw_audio/sound_effects_pack/Sound Effects Pack/Weapons/Rifles/guardianReload.mp3",
+    "duration_s": 2.9518,
+    "sample_rate": 44100,
+    "channels": 2,
+    "size_bytes": 71771,
+    "peak_db": -11.89,
+    "rms_db": -33.43,
+    "lead_silence_s": 0.025,
+    "active_end_s": 2.6,
+    "num_bursts": 4,
+    "bursts": [
+      {
+        "start_s": 0.025,
+        "end_s": 1.36,
+        "dur_s": 1.335,
+        "peak_db": -22.4
+      },
+      {
+        "start_s": 1.47,
+        "end_s": 1.56,
+        "dur_s": 0.09,
+        "peak_db": -30.1
+      },
+      {
+        "start_s": 1.605,
+        "end_s": 1.905,
+        "dur_s": 0.3,
+        "peak_db": -21.0
+      },
+      {
+        "start_s": 2.335,
+        "end_s": 2.35,
+        "dur_s": 0.015,
+        "peak_db": -41.0
+      }
+    ]
+  },
+  {
+    "file": "sound_effects_pack/Sound Effects Pack/Weapons/Rifles/guardianSpray.mp3",
+    "abs_path": "/tmp/nirma_audio_work/raw_audio/sound_effects_pack/Sound Effects Pack/Weapons/Rifles/guardianSpray.mp3",
+    "duration_s": 2.3249,
+    "sample_rate": 44100,
+    "channels": 2,
+    "size_bytes": 54924,
+    "peak_db": -7.92,
+    "rms_db": -21.33,
+    "lead_silence_s": 0.0,
+    "active_end_s": 2.275,
+    "num_bursts": 1,
+    "bursts": [
+      {
+        "start_s": 0.0,
+        "end_s": 2.275,
+        "dur_s": 2.275,
+        "peak_db": -13.0
+      }
+    ]
+  },
+  {
+    "file": "sound_effects_pack/Sound Effects Pack/Weapons/Rifles/guardianTap.mp3",
+    "abs_path": "/tmp/nirma_audio_work/raw_audio/sound_effects_pack/Sound Effects Pack/Weapons/Rifles/guardianTap.mp3",
+    "duration_s": 1.1233,
+    "sample_rate": 44100,
+    "channels": 2,
+    "size_bytes": 26118,
+    "peak_db": -9.07,
+    "rms_db": -24.75,
+    "lead_silence_s": 0.0,
+    "active_end_s": 1.07,
+    "num_bursts": 1,
+    "bursts": [
+      {
+        "start_s": 0.0,
+        "end_s": 1.07,
+        "dur_s": 1.07,
+        "peak_db": -15.6
+      }
+    ]
+  },
+  {
+    "file": "sound_effects_pack/Sound Effects Pack/Weapons/Rifles/phantomReload.mp3",
+    "abs_path": "/tmp/nirma_audio_work/raw_audio/sound_effects_pack/Sound Effects Pack/Weapons/Rifles/phantomReload.mp3",
+    "duration_s": 2.6906,
+    "sample_rate": 44100,
+    "channels": 2,
+    "size_bytes": 64681,
+    "peak_db": -12.45,
+    "rms_db": -33.69,
+    "lead_silence_s": 0.025,
+    "active_end_s": 2.455,
+    "num_bursts": 9,
+    "bursts": [
+      {
+        "start_s": 0.025,
+        "end_s": 0.48,
+        "dur_s": 0.455,
+        "peak_db": -20.4
+      },
+      {
+        "start_s": 0.8,
+        "end_s": 0.865,
+        "dur_s": 0.065,
+        "peak_db": -26.5
+      },
+      {
+        "start_s": 0.915,
+        "end_s": 0.955,
+        "dur_s": 0.04,
+        "peak_db": -30.7
+      },
+      {
+        "start_s": 0.995,
+        "end_s": 1.02,
+        "dur_s": 0.025,
+        "peak_db": -36.8
+      },
+      {
+        "start_s": 1.175,
+        "end_s": 1.245,
+        "dur_s": 0.07,
+        "peak_db": -29.0
+      },
+      {
+        "start_s": 1.355,
+        "end_s": 1.515,
+        "dur_s": 0.16,
+        "peak_db": -20.2
+      },
+      {
+        "start_s": 1.7,
+        "end_s": 1.82,
+        "dur_s": 0.12,
+        "peak_db": -23.6
+      },
+      {
+        "start_s": 2.065,
+        "end_s": 2.205,
+        "dur_s": 0.14,
+        "peak_db": -22.8
+      },
+      {
+        "start_s": 2.4,
+        "end_s": 2.425,
+        "dur_s": 0.025,
+        "peak_db": -33.2
+      }
+    ]
+  },
+  {
+    "file": "sound_effects_pack/Sound Effects Pack/Weapons/Rifles/phantomSpray.mp3",
+    "abs_path": "/tmp/nirma_audio_work/raw_audio/sound_effects_pack/Sound Effects Pack/Weapons/Rifles/phantomSpray.mp3",
+    "duration_s": 2.5078,
+    "sample_rate": 44100,
+    "channels": 2,
+    "size_bytes": 37315,
+    "peak_db": -6.74,
+    "rms_db": -19.61,
+    "lead_silence_s": 0.015,
+    "active_end_s": 2.1,
+    "num_bursts": 2,
+    "bursts": [
+      {
+        "start_s": 0.015,
+        "end_s": 1.66,
+        "dur_s": 1.645,
+        "peak_db": -12.5
+      },
+      {
+        "start_s": 2.065,
+        "end_s": 2.075,
+        "dur_s": 0.01,
+        "peak_db": -36.9
+      }
+    ]
+  },
+  {
+    "file": "sound_effects_pack/Sound Effects Pack/Weapons/Rifles/phantomTap.mp3",
+    "abs_path": "/tmp/nirma_audio_work/raw_audio/sound_effects_pack/Sound Effects Pack/Weapons/Rifles/phantomTap.mp3",
+    "duration_s": 0.9143,
+    "sample_rate": 44100,
+    "channels": 2,
+    "size_bytes": 13640,
+    "peak_db": -9.09,
+    "rms_db": -26.12,
+    "lead_silence_s": 0.025,
+    "active_end_s": 0.445,
+    "num_bursts": 1,
+    "bursts": [
+      {
+        "start_s": 0.025,
+        "end_s": 0.355,
+        "dur_s": 0.33,
+        "peak_db": -14.8
+      }
+    ]
+  },
+  {
+    "file": "sound_effects_pack/Sound Effects Pack/Weapons/Rifles/vandalReload.mp3",
+    "abs_path": "/tmp/nirma_audio_work/raw_audio/sound_effects_pack/Sound Effects Pack/Weapons/Rifles/vandalReload.mp3",
+    "duration_s": 2.1943,
+    "sample_rate": 44100,
+    "channels": 2,
+    "size_bytes": 51999,
+    "peak_db": -17.84,
+    "rms_db": -37.9,
+    "lead_silence_s": 0.025,
+    "active_end_s": 1.76,
+    "num_bursts": 7,
+    "bursts": [
+      {
+        "start_s": 0.025,
+        "end_s": 0.415,
+        "dur_s": 0.39,
+        "peak_db": -28.8
+      },
+      {
+        "start_s": 0.47,
+        "end_s": 0.48,
+        "dur_s": 0.01,
+        "peak_db": -41.8
+      },
+      {
+        "start_s": 0.69,
+        "end_s": 0.88,
+        "dur_s": 0.19,
+        "peak_db": -27.9
+      },
+      {
+        "start_s": 0.93,
+        "end_s": 1.05,
+        "dur_s": 0.12,
+        "peak_db": -29.4
+      },
+      {
+        "start_s": 1.285,
+        "end_s": 1.305,
+        "dur_s": 0.02,
+        "peak_db": -36.7
+      },
+      {
+        "start_s": 1.36,
+        "end_s": 1.49,
+        "dur_s": 0.13,
+        "peak_db": -28.2
+      },
+      {
+        "start_s": 1.635,
+        "end_s": 1.75,
+        "dur_s": 0.115,
+        "peak_db": -27.3
+      }
+    ]
+  },
+  {
+    "file": "sound_effects_pack/Sound Effects Pack/Weapons/Rifles/vandalSpray.mp3",
+    "abs_path": "/tmp/nirma_audio_work/raw_audio/sound_effects_pack/Sound Effects Pack/Weapons/Rifles/vandalSpray.mp3",
+    "duration_s": 3.9445,
+    "sample_rate": 44100,
+    "channels": 2,
+    "size_bytes": 54319,
+    "peak_db": -4.69,
+    "rms_db": -16.72,
+    "lead_silence_s": 0.005,
+    "active_end_s": 3.285,
+    "num_bursts": 1,
+    "bursts": [
+      {
+        "start_s": 0.005,
+        "end_s": 2.7,
+        "dur_s": 2.695,
+        "peak_db": -7.8
+      }
+    ]
+  },
+  {
+    "file": "sound_effects_pack/Sound Effects Pack/Weapons/Rifles/vandalTap.mp3",
+    "abs_path": "/tmp/nirma_audio_work/raw_audio/sound_effects_pack/Sound Effects Pack/Weapons/Rifles/vandalTap.mp3",
+    "duration_s": 1.3845,
+    "sample_rate": 44100,
+    "channels": 2,
+    "size_bytes": 19480,
+    "peak_db": -4.55,
+    "rms_db": -22.58,
+    "lead_silence_s": 0.0,
+    "active_end_s": 1.335,
+    "num_bursts": 1,
+    "bursts": [
+      {
+        "start_s": 0.0,
+        "end_s": 0.71,
+        "dur_s": 0.71,
+        "peak_db": -8.8
+      }
+    ]
+  },
+  {
+    "file": "sound_effects_pack/Sound Effects Pack/Weapons/Snipers/marshalReload.mp3",
+    "abs_path": "/tmp/nirma_audio_work/raw_audio/sound_effects_pack/Sound Effects Pack/Weapons/Snipers/marshalReload.mp3",
+    "duration_s": 3.8661,
+    "sample_rate": 44100,
+    "channels": 2,
+    "size_bytes": 88915,
+    "peak_db": -19.39,
+    "rms_db": -40.21,
+    "lead_silence_s": 0.03,
+    "active_end_s": 3.24,
+    "num_bursts": 8,
+    "bursts": [
+      {
+        "start_s": 0.025,
+        "end_s": 1.44,
+        "dur_s": 1.415,
+        "peak_db": -26.8
+      },
+      {
+        "start_s": 1.48,
+        "end_s": 1.52,
+        "dur_s": 0.04,
+        "peak_db": -40.9
+      },
+      {
+        "start_s": 1.635,
+        "end_s": 1.675,
+        "dur_s": 0.04,
+        "peak_db": -41.5
+      },
+      {
+        "start_s": 1.765,
+        "end_s": 1.945,
+        "dur_s": 0.18,
+        "peak_db": -37.7
+      },
+      {
+        "start_s": 1.99,
+        "end_s": 2.015,
+        "dur_s": 0.025,
+        "peak_db": -41.8
+      },
+      {
+        "start_s": 2.335,
+        "end_s": 2.35,
+        "dur_s": 0.015,
+        "peak_db": -37.6
+      },
+      {
+        "start_s": 2.52,
+        "end_s": 2.68,
+        "dur_s": 0.16,
+        "peak_db": -29.1
+      },
+      {
+        "start_s": 2.755,
+        "end_s": 2.865,
+        "dur_s": 0.11,
+        "peak_db": -28.3
+      }
+    ]
+  },
+  {
+    "file": "sound_effects_pack/Sound Effects Pack/Weapons/Snipers/marshalSpray.mp3",
+    "abs_path": "/tmp/nirma_audio_work/raw_audio/sound_effects_pack/Sound Effects Pack/Weapons/Snipers/marshalSpray.mp3",
+    "duration_s": 5.3812,
+    "sample_rate": 44100,
+    "channels": 2,
+    "size_bytes": 80227,
+    "peak_db": -3.67,
+    "rms_db": -20.0,
+    "lead_silence_s": 0.055,
+    "active_end_s": 5.355,
+    "num_bursts": 1,
+    "bursts": [
+      {
+        "start_s": 0.055,
+        "end_s": 5.355,
+        "dur_s": 5.3,
+        "peak_db": -8.1
+      }
+    ]
+  },
+  {
+    "file": "sound_effects_pack/Sound Effects Pack/Weapons/Snipers/marshalTap.mp3",
+    "abs_path": "/tmp/nirma_audio_work/raw_audio/sound_effects_pack/Sound Effects Pack/Weapons/Snipers/marshalTap.mp3",
+    "duration_s": 4.8327,
+    "sample_rate": 44100,
+    "channels": 2,
+    "size_bytes": 68648,
+    "peak_db": -4.77,
+    "rms_db": -26.63,
+    "lead_silence_s": 0.045,
+    "active_end_s": 3.16,
+    "num_bursts": 2,
+    "bursts": [
+      {
+        "start_s": 0.04,
+        "end_s": 2.34,
+        "dur_s": 2.3,
+        "peak_db": -8.7
+      },
+      {
+        "start_s": 2.435,
+        "end_s": 2.46,
+        "dur_s": 0.025,
+        "peak_db": -38.4
+      }
+    ]
+  },
+  {
+    "file": "sound_effects_pack/Sound Effects Pack/Weapons/Snipers/operatorReload.mp3",
+    "abs_path": "/tmp/nirma_audio_work/raw_audio/sound_effects_pack/Sound Effects Pack/Weapons/Snipers/operatorReload.mp3",
+    "duration_s": 3.5004,
+    "sample_rate": 44100,
+    "channels": 2,
+    "size_bytes": 77139,
+    "peak_db": -18.45,
+    "rms_db": -36.76,
+    "lead_silence_s": 0.035,
+    "active_end_s": 3.005,
+    "num_bursts": 10,
+    "bursts": [
+      {
+        "start_s": 0.03,
+        "end_s": 0.32,
+        "dur_s": 0.29,
+        "peak_db": -28.8
+      },
+      {
+        "start_s": 0.36,
+        "end_s": 0.53,
+        "dur_s": 0.17,
+        "peak_db": -28.3
+      },
+      {
+        "start_s": 0.85,
+        "end_s": 1.1,
+        "dur_s": 0.25,
+        "peak_db": -27.4
+      },
+      {
+        "start_s": 1.26,
+        "end_s": 1.52,
+        "dur_s": 0.26,
+        "peak_db": -25.0
+      },
+      {
+        "start_s": 1.59,
+        "end_s": 1.695,
+        "dur_s": 0.105,
+        "peak_db": -39.9
+      },
+      {
+        "start_s": 1.75,
+        "end_s": 1.79,
+        "dur_s": 0.04,
+        "peak_db": -28.8
+      },
+      {
+        "start_s": 1.975,
+        "end_s": 2.105,
+        "dur_s": 0.13,
+        "peak_db": -29.1
+      },
+      {
+        "start_s": 2.205,
+        "end_s": 2.7,
+        "dur_s": 0.495,
+        "peak_db": -25.2
+      },
+      {
+        "start_s": 2.75,
+        "end_s": 2.815,
+        "dur_s": 0.065,
+        "peak_db": -26.4
+      },
+      {
+        "start_s": 2.87,
+        "end_s": 2.91,
+        "dur_s": 0.04,
+        "peak_db": -39.0
+      }
+    ]
+  },
+  {
+    "file": "sound_effects_pack/Sound Effects Pack/Weapons/Snipers/operatorSpray.mp3",
+    "abs_path": "/tmp/nirma_audio_work/raw_audio/sound_effects_pack/Sound Effects Pack/Weapons/Snipers/operatorSpray.mp3",
+    "duration_s": 10.8408,
+    "sample_rate": 44100,
+    "channels": 2,
+    "size_bytes": 158264,
+    "peak_db": -3.42,
+    "rms_db": -19.59,
+    "lead_silence_s": 0.035,
+    "active_end_s": 10.375,
+    "num_bursts": 1,
+    "bursts": [
+      {
+        "start_s": 0.035,
+        "end_s": 10.355,
+        "dur_s": 10.32,
+        "peak_db": -9.8
+      }
+    ]
+  },
+  {
+    "file": "sound_effects_pack/Sound Effects Pack/Weapons/Snipers/operatorTap.mp3",
+    "abs_path": "/tmp/nirma_audio_work/raw_audio/sound_effects_pack/Sound Effects Pack/Weapons/Snipers/operatorTap.mp3",
+    "duration_s": 3.422,
+    "sample_rate": 44100,
+    "channels": 2,
+    "size_bytes": 48735,
+    "peak_db": -4.64,
+    "rms_db": -22.62,
+    "lead_silence_s": 0.02,
+    "active_end_s": 2.395,
+    "num_bursts": 2,
+    "bursts": [
+      {
+        "start_s": 0.02,
+        "end_s": 2.04,
+        "dur_s": 2.02,
+        "peak_db": -12.6
+      },
+      {
+        "start_s": 2.085,
+        "end_s": 2.38,
+        "dur_s": 0.295,
+        "peak_db": -36.8
+      }
+    ]
+  },
+  {
+    "file": "sound_effects_pack/Sound Effects Pack/Weapons/Pistols/classicReload.mp3",
+    "abs_path": "/tmp/nirma_audio_work/raw_audio/sound_effects_pack/Sound Effects Pack/Weapons/Pistols/classicReload.mp3",
+    "duration_s": 1.5673,
+    "sample_rate": 44100,
+    "channels": 2,
+    "size_bytes": 36968,
+    "peak_db": -17.2,
+    "rms_db": -37.53,
+    "lead_silence_s": 0.035,
+    "active_end_s": 1.36,
+    "num_bursts": 7,
+    "bursts": [
+      {
+        "start_s": 0.025,
+        "end_s": 0.185,
+        "dur_s": 0.16,
+        "peak_db": -31.8
+      },
+      {
+        "start_s": 0.275,
+        "end_s": 0.325,
+        "dur_s": 0.05,
+        "peak_db": -30.5
+      },
+      {
+        "start_s": 0.365,
+        "end_s": 0.375,
+        "dur_s": 0.01,
+        "peak_db": -32.9
+      },
+      {
+        "start_s": 0.415,
+        "end_s": 0.485,
+        "dur_s": 0.07,
+        "peak_db": -34.1
+      },
+      {
+        "start_s": 0.67,
+        "end_s": 0.85,
+        "dur_s": 0.18,
+        "peak_db": -26.8
+      },
+      {
+        "start_s": 1.035,
+        "end_s": 1.055,
+        "dur_s": 0.02,
+        "peak_db": -38.7
+      },
+      {
+        "start_s": 1.195,
+        "end_s": 1.355,
+        "dur_s": 0.16,
+        "peak_db": -24.8
+      }
+    ]
+  },
+  {
+    "file": "sound_effects_pack/Sound Effects Pack/Weapons/Pistols/classicSpray.mp3",
+    "abs_path": "/tmp/nirma_audio_work/raw_audio/sound_effects_pack/Sound Effects Pack/Weapons/Pistols/classicSpray.mp3",
+    "duration_s": 1.3322,
+    "sample_rate": 44100,
+    "channels": 2,
+    "size_bytes": 28361,
+    "peak_db": -10.13,
+    "rms_db": -24.25,
+    "lead_silence_s": 0.005,
+    "active_end_s": 1.295,
+    "num_bursts": 1,
+    "bursts": [
+      {
+        "start_s": 0.005,
+        "end_s": 1.25,
+        "dur_s": 1.245,
+        "peak_db": -14.3
+      }
+    ]
+  },
+  {
+    "file": "sound_effects_pack/Sound Effects Pack/Weapons/Pistols/classicTap.mp3",
+    "abs_path": "/tmp/nirma_audio_work/raw_audio/sound_effects_pack/Sound Effects Pack/Weapons/Pistols/classicTap.mp3",
+    "duration_s": 0.8359,
+    "sample_rate": 44100,
+    "channels": 2,
+    "size_bytes": 17556,
+    "peak_db": -11.0,
+    "rms_db": -29.09,
+    "lead_silence_s": 0.015,
+    "active_end_s": 0.805,
+    "num_bursts": 1,
+    "bursts": [
+      {
+        "start_s": 0.015,
+        "end_s": 0.66,
+        "dur_s": 0.645,
+        "peak_db": -15.8
+      }
+    ]
+  },
+  {
+    "file": "sound_effects_pack/Sound Effects Pack/Weapons/Pistols/frenzyReload.mp3",
+    "abs_path": "/tmp/nirma_audio_work/raw_audio/sound_effects_pack/Sound Effects Pack/Weapons/Pistols/frenzyReload.mp3",
+    "duration_s": 2.7429,
+    "sample_rate": 44100,
+    "channels": 2,
+    "size_bytes": 62852,
+    "peak_db": -16.18,
+    "rms_db": -37.72,
+    "lead_silence_s": 0.025,
+    "active_end_s": 2.495,
+    "num_bursts": 12,
+    "bursts": [
+      {
+        "start_s": 0.025,
+        "end_s": 0.13,
+        "dur_s": 0.105,
+        "peak_db": -40.2
+      },
+      {
+        "start_s": 0.175,
+        "end_s": 0.345,
+        "dur_s": 0.17,
+        "peak_db": -27.2
+      },
+      {
+        "start_s": 0.51,
+        "end_s": 0.565,
+        "dur_s": 0.055,
+        "peak_db": -31.6
+      },
+      {
+        "start_s": 0.605,
+        "end_s": 0.7,
+        "dur_s": 0.095,
+        "peak_db": -32.8
+      },
+      {
+        "start_s": 0.9,
+        "end_s": 0.92,
+        "dur_s": 0.02,
+        "peak_db": -27.8
+      },
+      {
+        "start_s": 0.965,
+        "end_s": 1.145,
+        "dur_s": 0.18,
+        "peak_db": -24.9
+      },
+      {
+        "start_s": 1.37,
+        "end_s": 1.4,
+        "dur_s": 0.03,
+        "peak_db": -35.7
+      },
+      {
+        "start_s": 1.585,
+        "end_s": 1.66,
+        "dur_s": 0.075,
+        "peak_db": -29.9
+      },
+      {
+        "start_s": 1.8,
+        "end_s": 1.935,
+        "dur_s": 0.135,
+        "peak_db": -24.3
+      },
+      {
+        "start_s": 2.06,
+        "end_s": 2.13,
+        "dur_s": 0.07,
+        "peak_db": -24.3
+      },
+      {
+        "start_s": 2.385,
+        "end_s": 2.395,
+        "dur_s": 0.01,
+        "peak_db": -41.7
+      },
+      {
+        "start_s": 2.45,
+        "end_s": 2.465,
+        "dur_s": 0.015,
+        "peak_db": -35.3
+      }
+    ]
+  },
+  {
+    "file": "sound_effects_pack/Sound Effects Pack/Weapons/Pistols/frenzySpray.mp3",
+    "abs_path": "/tmp/nirma_audio_work/raw_audio/sound_effects_pack/Sound Effects Pack/Weapons/Pistols/frenzySpray.mp3",
+    "duration_s": 3.5004,
+    "sample_rate": 44100,
+    "channels": 2,
+    "size_bytes": 51600,
+    "peak_db": -6.1,
+    "rms_db": -18.8,
+    "lead_silence_s": 0.015,
+    "active_end_s": 3.285,
+    "num_bursts": 1,
+    "bursts": [
+      {
+        "start_s": 0.015,
+        "end_s": 3.155,
+        "dur_s": 3.14,
+        "peak_db": -13.1
+      }
+    ]
+  },
+  {
+    "file": "sound_effects_pack/Sound Effects Pack/Weapons/Pistols/frenzyTap.mp3",
+    "abs_path": "/tmp/nirma_audio_work/raw_audio/sound_effects_pack/Sound Effects Pack/Weapons/Pistols/frenzyTap.mp3",
+    "duration_s": 0.6531,
+    "sample_rate": 44100,
+    "channels": 2,
+    "size_bytes": 10195,
+    "peak_db": -9.87,
+    "rms_db": -26.88,
+    "lead_silence_s": 0.005,
+    "active_end_s": 0.49,
+    "num_bursts": 1,
+    "bursts": [
+      {
+        "start_s": 0.0,
+        "end_s": 0.39,
+        "dur_s": 0.39,
+        "peak_db": -16.3
+      }
+    ]
+  },
+  {
+    "file": "sound_effects_pack/Sound Effects Pack/Weapons/Pistols/ghostReload.mp3",
+    "abs_path": "/tmp/nirma_audio_work/raw_audio/sound_effects_pack/Sound Effects Pack/Weapons/Pistols/ghostReload.mp3",
+    "duration_s": 1.7763,
+    "sample_rate": 44100,
+    "channels": 2,
+    "size_bytes": 41458,
+    "peak_db": -14.87,
+    "rms_db": -35.85,
+    "lead_silence_s": 0.03,
+    "active_end_s": 1.595,
+    "num_bursts": 5,
+    "bursts": [
+      {
+        "start_s": 0.025,
+        "end_s": 0.39,
+        "dur_s": 0.365,
+        "peak_db": -25.4
+      },
+      {
+        "start_s": 0.565,
+        "end_s": 0.84,
+        "dur_s": 0.275,
+        "peak_db": -24.5
+      },
+      {
+        "start_s": 1.095,
+        "end_s": 1.19,
+        "dur_s": 0.095,
+        "peak_db": -25.3
+      },
+      {
+        "start_s": 1.305,
+        "end_s": 1.37,
+        "dur_s": 0.065,
+        "peak_db": -23.4
+      },
+      {
+        "start_s": 1.56,
+        "end_s": 1.575,
+        "dur_s": 0.015,
+        "peak_db": -34.1
+      }
+    ]
+  },
+  {
+    "file": "sound_effects_pack/Sound Effects Pack/Weapons/Pistols/ghostSpray.mp3",
+    "abs_path": "/tmp/nirma_audio_work/raw_audio/sound_effects_pack/Sound Effects Pack/Weapons/Pistols/ghostSpray.mp3",
+    "duration_s": 2.6906,
+    "sample_rate": 44100,
+    "channels": 2,
+    "size_bytes": 41644,
+    "peak_db": -8.62,
+    "rms_db": -20.1,
+    "lead_silence_s": 0.01,
+    "active_end_s": 2.635,
+    "num_bursts": 1,
+    "bursts": [
+      {
+        "start_s": 0.01,
+        "end_s": 2.555,
+        "dur_s": 2.545,
+        "peak_db": -12.8
+      }
+    ]
+  },
+  {
+    "file": "sound_effects_pack/Sound Effects Pack/Weapons/Pistols/ghostTap.mp3",
+    "abs_path": "/tmp/nirma_audio_work/raw_audio/sound_effects_pack/Sound Effects Pack/Weapons/Pistols/ghostTap.mp3",
+    "duration_s": 0.9143,
+    "sample_rate": 44100,
+    "channels": 2,
+    "size_bytes": 12883,
+    "peak_db": -9.32,
+    "rms_db": -29.89,
+    "lead_silence_s": 0.01,
+    "active_end_s": 0.465,
+    "num_bursts": 1,
+    "bursts": [
+      {
+        "start_s": 0.005,
+        "end_s": 0.29,
+        "dur_s": 0.285,
+        "peak_db": -16.9
+      }
+    ]
+  },
+  {
+    "file": "sound_effects_pack/Sound Effects Pack/Weapons/Pistols/sheriffReload.mp3",
+    "abs_path": "/tmp/nirma_audio_work/raw_audio/sound_effects_pack/Sound Effects Pack/Weapons/Pistols/sheriffReload.mp3",
+    "duration_s": 3.84,
+    "sample_rate": 44100,
+    "channels": 2,
+    "size_bytes": 84868,
+    "peak_db": -14.62,
+    "rms_db": -37.88,
+    "lead_silence_s": 0.025,
+    "active_end_s": 3.4,
+    "num_bursts": 8,
+    "bursts": [
+      {
+        "start_s": 0.025,
+        "end_s": 0.465,
+        "dur_s": 0.44,
+        "peak_db": -22.5
+      },
+      {
+        "start_s": 0.835,
+        "end_s": 0.995,
+        "dur_s": 0.16,
+        "peak_db": -26.3
+      },
+      {
+        "start_s": 1.51,
+        "end_s": 1.595,
+        "dur_s": 0.085,
+        "peak_db": -27.0
+      },
+      {
+        "start_s": 2.155,
+        "end_s": 2.17,
+        "dur_s": 0.015,
+        "peak_db": -36.1
+      },
+      {
+        "start_s": 2.355,
+        "end_s": 2.365,
+        "dur_s": 0.01,
+        "peak_db": -40.2
+      },
+      {
+        "start_s": 2.61,
+        "end_s": 2.7,
+        "dur_s": 0.09,
+        "peak_db": -29.5
+      },
+      {
+        "start_s": 2.905,
+        "end_s": 2.955,
+        "dur_s": 0.05,
+        "peak_db": -25.8
+      },
+      {
+        "start_s": 3.08,
+        "end_s": 3.185,
+        "dur_s": 0.105,
+        "peak_db": -23.5
+      }
+    ]
+  },
+  {
+    "file": "sound_effects_pack/Sound Effects Pack/Weapons/Pistols/sheriffSpray.mp3",
+    "abs_path": "/tmp/nirma_audio_work/raw_audio/sound_effects_pack/Sound Effects Pack/Weapons/Pistols/sheriffSpray.mp3",
+    "duration_s": 2.1159,
+    "sample_rate": 44100,
+    "channels": 2,
+    "size_bytes": 27774,
+    "peak_db": -5.43,
+    "rms_db": -19.91,
+    "lead_silence_s": 0.02,
+    "active_end_s": 1.845,
+    "num_bursts": 1,
+    "bursts": [
+      {
+        "start_s": 0.02,
+        "end_s": 1.595,
+        "dur_s": 1.575,
+        "peak_db": -8.6
+      }
+    ]
+  },
+  {
+    "file": "sound_effects_pack/Sound Effects Pack/Weapons/Pistols/sheriffTap.mp3",
+    "abs_path": "/tmp/nirma_audio_work/raw_audio/sound_effects_pack/Sound Effects Pack/Weapons/Pistols/sheriffTap.mp3",
+    "duration_s": 1.3845,
+    "sample_rate": 44100,
+    "channels": 2,
+    "size_bytes": 16560,
+    "peak_db": -5.59,
+    "rms_db": -23.79,
+    "lead_silence_s": 0.015,
+    "active_end_s": 0.855,
+    "num_bursts": 1,
+    "bursts": [
+      {
+        "start_s": 0.015,
+        "end_s": 0.82,
+        "dur_s": 0.805,
+        "peak_db": -9.3
+      }
+    ]
+  },
+  {
+    "file": "sound_effects_pack/Sound Effects Pack/Weapons/SMGs/spectreReload.mp3",
+    "abs_path": "/tmp/nirma_audio_work/raw_audio/sound_effects_pack/Sound Effects Pack/Weapons/SMGs/spectreReload.mp3",
+    "duration_s": 2.2988,
+    "sample_rate": 44100,
+    "channels": 2,
+    "size_bytes": 53717,
+    "peak_db": -16.32,
+    "rms_db": -38.35,
+    "lead_silence_s": 0.06,
+    "active_end_s": 2.18,
+    "num_bursts": 6,
+    "bursts": [
+      {
+        "start_s": 0.06,
+        "end_s": 0.135,
+        "dur_s": 0.075,
+        "peak_db": -29.2
+      },
+      {
+        "start_s": 0.195,
+        "end_s": 0.275,
+        "dur_s": 0.08,
+        "peak_db": -28.0
+      },
+      {
+        "start_s": 0.56,
+        "end_s": 0.59,
+        "dur_s": 0.03,
+        "peak_db": -26.7
+      },
+      {
+        "start_s": 0.645,
+        "end_s": 0.925,
+        "dur_s": 0.28,
+        "peak_db": -28.4
+      },
+      {
+        "start_s": 1.09,
+        "end_s": 1.175,
+        "dur_s": 0.085,
+        "peak_db": -28.1
+      },
+      {
+        "start_s": 1.535,
+        "end_s": 1.775,
+        "dur_s": 0.24,
+        "peak_db": -24.4
+      }
+    ]
+  },
+  {
+    "file": "sound_effects_pack/Sound Effects Pack/Weapons/SMGs/spectreSpray.mp3",
+    "abs_path": "/tmp/nirma_audio_work/raw_audio/sound_effects_pack/Sound Effects Pack/Weapons/SMGs/spectreSpray.mp3",
+    "duration_s": 2.4033,
+    "sample_rate": 44100,
+    "channels": 2,
+    "size_bytes": 72886,
+    "peak_db": -12.22,
+    "rms_db": -23.4,
+    "lead_silence_s": 0.055,
+    "active_end_s": 2.33,
+    "num_bursts": 1,
+    "bursts": [
+      {
+        "start_s": 0.055,
+        "end_s": 2.33,
+        "dur_s": 2.275,
+        "peak_db": -17.9
+      }
+    ]
+  },
+  {
+    "file": "sound_effects_pack/Sound Effects Pack/Weapons/SMGs/spectreTap.mp3",
+    "abs_path": "/tmp/nirma_audio_work/raw_audio/sound_effects_pack/Sound Effects Pack/Weapons/SMGs/spectreTap.mp3",
+    "duration_s": 0.1306,
+    "sample_rate": 44100,
+    "channels": 2,
+    "size_bytes": 3575,
+    "peak_db": -12.89,
+    "rms_db": -23.62,
+    "lead_silence_s": 0.0,
+    "active_end_s": 0.075,
+    "num_bursts": 1,
+    "bursts": [
+      {
+        "start_s": 0.0,
+        "end_s": 0.08,
+        "dur_s": 0.08,
+        "peak_db": -18.2
+      }
+    ]
+  },
+  {
+    "file": "sound_effects_pack/Sound Effects Pack/Weapons/SMGs/stingerReload.mp3",
+    "abs_path": "/tmp/nirma_audio_work/raw_audio/sound_effects_pack/Sound Effects Pack/Weapons/SMGs/stingerReload.mp3",
+    "duration_s": 2.1159,
+    "sample_rate": 44100,
+    "channels": 2,
+    "size_bytes": 47821,
+    "peak_db": -11.93,
+    "rms_db": -35.65,
+    "lead_silence_s": 0.025,
+    "active_end_s": 2.035,
+    "num_bursts": 6,
+    "bursts": [
+      {
+        "start_s": 0.025,
+        "end_s": 0.115,
+        "dur_s": 0.09,
+        "peak_db": -36.9
+      },
+      {
+        "start_s": 0.28,
+        "end_s": 0.43,
+        "dur_s": 0.15,
+        "peak_db": -24.5
+      },
+      {
+        "start_s": 0.59,
+        "end_s": 0.73,
+        "dur_s": 0.14,
+        "peak_db": -31.1
+      },
+      {
+        "start_s": 0.77,
+        "end_s": 1.005,
+        "dur_s": 0.235,
+        "peak_db": -20.3
+      },
+      {
+        "start_s": 1.44,
+        "end_s": 1.55,
+        "dur_s": 0.11,
+        "peak_db": -24.8
+      },
+      {
+        "start_s": 2.01,
+        "end_s": 2.03,
+        "dur_s": 0.02,
+        "peak_db": -34.6
+      }
+    ]
+  },
+  {
+    "file": "sound_effects_pack/Sound Effects Pack/Weapons/SMGs/stingerSpray.mp3",
+    "abs_path": "/tmp/nirma_audio_work/raw_audio/sound_effects_pack/Sound Effects Pack/Weapons/SMGs/stingerSpray.mp3",
+    "duration_s": 1.2278,
+    "sample_rate": 44100,
+    "channels": 2,
+    "size_bytes": 38126,
+    "peak_db": -10.57,
+    "rms_db": -25.52,
+    "lead_silence_s": 0.0,
+    "active_end_s": 1.185,
+    "num_bursts": 1,
+    "bursts": [
+      {
+        "start_s": 0.0,
+        "end_s": 1.2,
+        "dur_s": 1.2,
+        "peak_db": -19.3
+      }
+    ]
+  },
+  {
+    "file": "sound_effects_pack/Sound Effects Pack/Weapons/SMGs/stingerTap.mp3",
+    "abs_path": "/tmp/nirma_audio_work/raw_audio/sound_effects_pack/Sound Effects Pack/Weapons/SMGs/stingerTap.mp3",
+    "duration_s": 0.0784,
+    "sample_rate": 44100,
+    "channels": 2,
+    "size_bytes": 3367,
+    "peak_db": -15.75,
+    "rms_db": -26.78,
+    "lead_silence_s": 0.0,
+    "active_end_s": 0.04,
+    "num_bursts": 1,
+    "bursts": [
+      {
+        "start_s": 0.0,
+        "end_s": 0.04,
+        "dur_s": 0.04,
+        "peak_db": -23.9
+      }
+    ]
+  },
+  {
+    "file": "sound_effects_pack/Sound Effects Pack/Voice Lines/Announcer/ace.mp3",
+    "abs_path": "/tmp/nirma_audio_work/raw_audio/sound_effects_pack/Sound Effects Pack/Voice Lines/Announcer/ace.mp3",
+    "duration_s": 1.104,
+    "sample_rate": 48000,
+    "channels": 2,
+    "size_bytes": 47511,
+    "peak_db": -7.64,
+    "rms_db": -22.01,
+    "lead_silence_s": 0.0,
+    "active_end_s": 0.65,
+    "num_bursts": 1,
+    "bursts": [
+      {
+        "start_s": 0.0,
+        "end_s": 0.645,
+        "dur_s": 0.645,
+        "peak_db": -13.7
+      }
+    ]
+  },
+  {
+    "file": "sound_effects_pack/Sound Effects Pack/Voice Lines/Announcer/attackersWin.mp3",
+    "abs_path": "/tmp/nirma_audio_work/raw_audio/sound_effects_pack/Sound Effects Pack/Voice Lines/Announcer/attackersWin.mp3",
+    "duration_s": 1.464,
+    "sample_rate": 48000,
+    "channels": 2,
+    "size_bytes": 61911,
+    "peak_db": -5.57,
+    "rms_db": -20.88,
+    "lead_silence_s": 0.0,
+    "active_end_s": 1.075,
+    "num_bursts": 2,
+    "bursts": [
+      {
+        "start_s": 0.0,
+        "end_s": 0.1,
+        "dur_s": 0.1,
+        "peak_db": -16.1
+      },
+      {
+        "start_s": 0.15,
+        "end_s": 1.07,
+        "dur_s": 0.92,
+        "peak_db": -12.5
+      }
+    ]
+  },
+  {
+    "file": "sound_effects_pack/Sound Effects Pack/Voice Lines/Announcer/clutch.mp3",
+    "abs_path": "/tmp/nirma_audio_work/raw_audio/sound_effects_pack/Sound Effects Pack/Voice Lines/Announcer/clutch.mp3",
+    "duration_s": 1.248,
+    "sample_rate": 48000,
+    "channels": 2,
+    "size_bytes": 53271,
+    "peak_db": -6.84,
+    "rms_db": -21.52,
+    "lead_silence_s": 0.0,
+    "active_end_s": 0.8,
+    "num_bursts": 2,
+    "bursts": [
+      {
+        "start_s": 0.0,
+        "end_s": 0.48,
+        "dur_s": 0.48,
+        "peak_db": -12.4
+      },
+      {
+        "start_s": 0.595,
+        "end_s": 0.79,
+        "dur_s": 0.195,
+        "peak_db": -27.9
+      }
+    ]
+  },
+  {
+    "file": "sound_effects_pack/Sound Effects Pack/Voice Lines/Announcer/defendersWin.mp3",
+    "abs_path": "/tmp/nirma_audio_work/raw_audio/sound_effects_pack/Sound Effects Pack/Voice Lines/Announcer/defendersWin.mp3",
+    "duration_s": 1.656,
+    "sample_rate": 48000,
+    "channels": 2,
+    "size_bytes": 69591,
+    "peak_db": -6.26,
+    "rms_db": -21.23,
+    "lead_silence_s": 0.005,
+    "active_end_s": 1.15,
+    "num_bursts": 1,
+    "bursts": [
+      {
+        "start_s": 0.005,
+        "end_s": 1.15,
+        "dur_s": 1.145,
+        "peak_db": -13.5
+      }
+    ]
+  },
+  {
+    "file": "sound_effects_pack/Sound Effects Pack/Voice Lines/Announcer/flawless.mp3",
+    "abs_path": "/tmp/nirma_audio_work/raw_audio/sound_effects_pack/Sound Effects Pack/Voice Lines/Announcer/flawless.mp3",
+    "duration_s": 1.296,
+    "sample_rate": 48000,
+    "channels": 2,
+    "size_bytes": 55191,
+    "peak_db": -7.19,
+    "rms_db": -22.08,
+    "lead_silence_s": 0.04,
+    "active_end_s": 0.855,
+    "num_bursts": 1,
+    "bursts": [
+      {
+        "start_s": 0.04,
+        "end_s": 0.84,
+        "dur_s": 0.8,
+        "peak_db": -13.6
+      }
+    ]
+  },
+  {
+    "file": "sound_effects_pack/Sound Effects Pack/Voice Lines/Announcer/oneEnemyRemaining.mp3",
+    "abs_path": "/tmp/nirma_audio_work/raw_audio/sound_effects_pack/Sound Effects Pack/Voice Lines/Announcer/oneEnemyRemaining.mp3",
+    "duration_s": 1.584,
+    "sample_rate": 48000,
+    "channels": 2,
+    "size_bytes": 66711,
+    "peak_db": -6.07,
+    "rms_db": -20.65,
+    "lead_silence_s": 0.0,
+    "active_end_s": 1.185,
+    "num_bursts": 2,
+    "bursts": [
+      {
+        "start_s": 0.0,
+        "end_s": 0.3,
+        "dur_s": 0.3,
+        "peak_db": -12.8
+      },
+      {
+        "start_s": 0.36,
+        "end_s": 1.185,
+        "dur_s": 0.825,
+        "peak_db": -15.1
+      }
+    ]
+  },
+  {
+    "file": "sound_effects_pack/Sound Effects Pack/Voice Lines/Announcer/quadraKill.mp3",
+    "abs_path": "/tmp/nirma_audio_work/raw_audio/sound_effects_pack/Sound Effects Pack/Voice Lines/Announcer/quadraKill.mp3",
+    "duration_s": 1.56,
+    "sample_rate": 48000,
+    "channels": 2,
+    "size_bytes": 65751,
+    "peak_db": -5.88,
+    "rms_db": -20.27,
+    "lead_silence_s": 0.005,
+    "active_end_s": 1.095,
+    "num_bursts": 2,
+    "bursts": [
+      {
+        "start_s": 0.005,
+        "end_s": 0.605,
+        "dur_s": 0.6,
+        "peak_db": -10.9
+      },
+      {
+        "start_s": 0.645,
+        "end_s": 1.085,
+        "dur_s": 0.44,
+        "peak_db": -13.7
+      }
+    ]
+  },
+  {
+    "file": "sound_effects_pack/Sound Effects Pack/Voice Lines/Announcer/spikeDefused.mp3",
+    "abs_path": "/tmp/nirma_audio_work/raw_audio/sound_effects_pack/Sound Effects Pack/Voice Lines/Announcer/spikeDefused.mp3",
+    "duration_s": 1.56,
+    "sample_rate": 48000,
+    "channels": 2,
+    "size_bytes": 65751,
+    "peak_db": -6.13,
+    "rms_db": -23.83,
+    "lead_silence_s": 0.015,
+    "active_end_s": 1.13,
+    "num_bursts": 4,
+    "bursts": [
+      {
+        "start_s": 0.01,
+        "end_s": 0.12,
+        "dur_s": 0.11,
+        "peak_db": -26.6
+      },
+      {
+        "start_s": 0.19,
+        "end_s": 0.42,
+        "dur_s": 0.23,
+        "peak_db": -14.5
+      },
+      {
+        "start_s": 0.49,
+        "end_s": 1.05,
+        "dur_s": 0.56,
+        "peak_db": -16.5
+      },
+      {
+        "start_s": 1.095,
+        "end_s": 1.125,
+        "dur_s": 0.03,
+        "peak_db": -34.7
+      }
+    ]
+  },
+  {
+    "file": "sound_effects_pack/Sound Effects Pack/Voice Lines/Announcer/spikePlanted.mp3",
+    "abs_path": "/tmp/nirma_audio_work/raw_audio/sound_effects_pack/Sound Effects Pack/Voice Lines/Announcer/spikePlanted.mp3",
+    "duration_s": 1.44,
+    "sample_rate": 48000,
+    "channels": 2,
+    "size_bytes": 60951,
+    "peak_db": -5.53,
+    "rms_db": -22.85,
+    "lead_silence_s": 0.02,
+    "active_end_s": 1.06,
+    "num_bursts": 3,
+    "bursts": [
+      {
+        "start_s": 0.015,
+        "end_s": 0.125,
+        "dur_s": 0.11,
+        "peak_db": -32.0
+      },
+      {
+        "start_s": 0.21,
+        "end_s": 0.46,
+        "dur_s": 0.25,
+        "peak_db": -12.9
+      },
+      {
+        "start_s": 0.545,
+        "end_s": 1.025,
+        "dur_s": 0.48,
+        "peak_db": -15.2
+      }
+    ]
+  },
+  {
+    "file": "sound_effects_pack/Sound Effects Pack/Voice Lines/Announcer/tenSecondsLeft.mp3",
+    "abs_path": "/tmp/nirma_audio_work/raw_audio/sound_effects_pack/Sound Effects Pack/Voice Lines/Announcer/tenSecondsLeft.mp3",
+    "duration_s": 1.464,
+    "sample_rate": 48000,
+    "channels": 2,
+    "size_bytes": 61911,
+    "peak_db": -6.35,
+    "rms_db": -23.44,
+    "lead_silence_s": 0.0,
+    "active_end_s": 1.025,
+    "num_bursts": 2,
+    "bursts": [
+      {
+        "start_s": 0.0,
+        "end_s": 0.925,
+        "dur_s": 0.925,
+        "peak_db": -15.9
+      },
+      {
+        "start_s": 0.98,
+        "end_s": 1.015,
+        "dur_s": 0.035,
+        "peak_db": -37.1
+      }
+    ]
+  },
+  {
+    "file": "sound_effects_pack/Sound Effects Pack/Voice Lines/Announcer/thrifty.mp3",
+    "abs_path": "/tmp/nirma_audio_work/raw_audio/sound_effects_pack/Sound Effects Pack/Voice Lines/Announcer/thrifty.mp3",
+    "duration_s": 1.368,
+    "sample_rate": 48000,
+    "channels": 2,
+    "size_bytes": 58071,
+    "peak_db": -6.32,
+    "rms_db": -21.94,
+    "lead_silence_s": 0.06,
+    "active_end_s": 0.9,
+    "num_bursts": 2,
+    "bursts": [
+      {
+        "start_s": 0.06,
+        "end_s": 0.535,
+        "dur_s": 0.475,
+        "peak_db": -13.2
+      },
+      {
+        "start_s": 0.605,
+        "end_s": 0.88,
+        "dur_s": 0.275,
+        "peak_db": -15.9
+      }
+    ]
+  },
+  {
+    "file": "sound_effects_pack/Sound Effects Pack/Voice Lines/Announcer/tripleKill.mp3",
+    "abs_path": "/tmp/nirma_audio_work/raw_audio/sound_effects_pack/Sound Effects Pack/Voice Lines/Announcer/tripleKill.mp3",
+    "duration_s": 1.392,
+    "sample_rate": 48000,
+    "channels": 2,
+    "size_bytes": 59031,
+    "peak_db": -6.38,
+    "rms_db": -22.43,
+    "lead_silence_s": 0.0,
+    "active_end_s": 0.92,
+    "num_bursts": 2,
+    "bursts": [
+      {
+        "start_s": 0.0,
+        "end_s": 0.235,
+        "dur_s": 0.235,
+        "peak_db": -15.8
+      },
+      {
+        "start_s": 0.28,
+        "end_s": 0.885,
+        "dur_s": 0.605,
+        "peak_db": -12.8
+      }
+    ]
+  },
+  {
+    "file": "sound_effects_pack/Sound Effects Pack/Voice Lines/Announcer/victory.mp3",
+    "abs_path": "/tmp/nirma_audio_work/raw_audio/sound_effects_pack/Sound Effects Pack/Voice Lines/Announcer/victory.mp3",
+    "duration_s": 1.32,
+    "sample_rate": 48000,
+    "channels": 2,
+    "size_bytes": 56151,
+    "peak_db": -7.36,
+    "rms_db": -22.44,
+    "lead_silence_s": 0.045,
+    "active_end_s": 0.89,
+    "num_bursts": 2,
+    "bursts": [
+      {
+        "start_s": 0.04,
+        "end_s": 0.36,
+        "dur_s": 0.32,
+        "peak_db": -12.5
+      },
+      {
+        "start_s": 0.41,
+        "end_s": 0.87,
+        "dur_s": 0.46,
+        "peak_db": -16.9
+      }
+    ]
+  },
+  {
+    "file": "sound_effects_pack/Sound Effects Pack/Voice Lines/Agents/breach1.mp3",
+    "abs_path": "/tmp/nirma_audio_work/raw_audio/sound_effects_pack/Sound Effects Pack/Voice Lines/Agents/breach1.mp3",
+    "duration_s": 1.224,
+    "sample_rate": 48000,
+    "channels": 1,
+    "size_bytes": 52311,
+    "peak_db": -3.9,
+    "rms_db": -16.0,
+    "lead_silence_s": 0.0,
+    "active_end_s": 1.155,
+    "num_bursts": 3,
+    "bursts": [
+      {
+        "start_s": 0.0,
+        "end_s": 0.585,
+        "dur_s": 0.585,
+        "peak_db": -8.8
+      },
+      {
+        "start_s": 0.66,
+        "end_s": 1.01,
+        "dur_s": 0.35,
+        "peak_db": -9.9
+      },
+      {
+        "start_s": 1.08,
+        "end_s": 1.185,
+        "dur_s": 0.105,
+        "peak_db": -25.1
+      }
+    ]
+  },
+  {
+    "file": "sound_effects_pack/Sound Effects Pack/Voice Lines/Agents/breach2.mp3",
+    "abs_path": "/tmp/nirma_audio_work/raw_audio/sound_effects_pack/Sound Effects Pack/Voice Lines/Agents/breach2.mp3",
+    "duration_s": 0.744,
+    "sample_rate": 48000,
+    "channels": 1,
+    "size_bytes": 33111,
+    "peak_db": -4.6,
+    "rms_db": -19.07,
+    "lead_silence_s": 0.0,
+    "active_end_s": 0.65,
+    "num_bursts": 1,
+    "bursts": [
+      {
+        "start_s": 0.0,
+        "end_s": 0.645,
+        "dur_s": 0.645,
+        "peak_db": -12.5
+      }
+    ]
+  },
+  {
+    "file": "sound_effects_pack/Sound Effects Pack/Voice Lines/Agents/brim1.mp3",
+    "abs_path": "/tmp/nirma_audio_work/raw_audio/sound_effects_pack/Sound Effects Pack/Voice Lines/Agents/brim1.mp3",
+    "duration_s": 1.824,
+    "sample_rate": 48000,
+    "channels": 1,
+    "size_bytes": 76311,
+    "peak_db": -0.35,
+    "rms_db": -17.73,
+    "lead_silence_s": 0.03,
+    "active_end_s": 1.595,
+    "num_bursts": 4,
+    "bursts": [
+      {
+        "start_s": 0.025,
+        "end_s": 0.105,
+        "dur_s": 0.08,
+        "peak_db": -17.7
+      },
+      {
+        "start_s": 0.235,
+        "end_s": 0.495,
+        "dur_s": 0.26,
+        "peak_db": -10.0
+      },
+      {
+        "start_s": 0.615,
+        "end_s": 1.055,
+        "dur_s": 0.44,
+        "peak_db": -7.7
+      },
+      {
+        "start_s": 1.16,
+        "end_s": 1.585,
+        "dur_s": 0.425,
+        "peak_db": -15.9
+      }
+    ]
+  },
+  {
+    "file": "sound_effects_pack/Sound Effects Pack/Voice Lines/Agents/brim2.mp3",
+    "abs_path": "/tmp/nirma_audio_work/raw_audio/sound_effects_pack/Sound Effects Pack/Voice Lines/Agents/brim2.mp3",
+    "duration_s": 1.536,
+    "sample_rate": 48000,
+    "channels": 1,
+    "size_bytes": 64791,
+    "peak_db": 0.02,
+    "rms_db": -16.59,
+    "lead_silence_s": 0.01,
+    "active_end_s": 1.355,
+    "num_bursts": 4,
+    "bursts": [
+      {
+        "start_s": 0.01,
+        "end_s": 0.16,
+        "dur_s": 0.15,
+        "peak_db": -8.3
+      },
+      {
+        "start_s": 0.2,
+        "end_s": 0.43,
+        "dur_s": 0.23,
+        "peak_db": -8.9
+      },
+      {
+        "start_s": 0.495,
+        "end_s": 0.71,
+        "dur_s": 0.215,
+        "peak_db": -12.4
+      },
+      {
+        "start_s": 0.84,
+        "end_s": 1.345,
+        "dur_s": 0.505,
+        "peak_db": -10.6
+      }
+    ]
+  },
+  {
+    "file": "sound_effects_pack/Sound Effects Pack/Voice Lines/Agents/cypher1.mp3",
+    "abs_path": "/tmp/nirma_audio_work/raw_audio/sound_effects_pack/Sound Effects Pack/Voice Lines/Agents/cypher1.mp3",
+    "duration_s": 2.64,
+    "sample_rate": 48000,
+    "channels": 1,
+    "size_bytes": 108951,
+    "peak_db": 0.05,
+    "rms_db": -18.73,
+    "lead_silence_s": 0.015,
+    "active_end_s": 2.335,
+    "num_bursts": 3,
+    "bursts": [
+      {
+        "start_s": 0.015,
+        "end_s": 1.035,
+        "dur_s": 1.02,
+        "peak_db": -8.2
+      },
+      {
+        "start_s": 1.145,
+        "end_s": 1.84,
+        "dur_s": 0.695,
+        "peak_db": -19.6
+      },
+      {
+        "start_s": 1.9,
+        "end_s": 2.31,
+        "dur_s": 0.41,
+        "peak_db": -22.8
+      }
+    ]
+  },
+  {
+    "file": "sound_effects_pack/Sound Effects Pack/Voice Lines/Agents/cypher2.mp3",
+    "abs_path": "/tmp/nirma_audio_work/raw_audio/sound_effects_pack/Sound Effects Pack/Voice Lines/Agents/cypher2.mp3",
+    "duration_s": 2.4,
+    "sample_rate": 48000,
+    "channels": 1,
+    "size_bytes": 99351,
+    "peak_db": -5.78,
+    "rms_db": -20.35,
+    "lead_silence_s": 0.02,
+    "active_end_s": 2.285,
+    "num_bursts": 2,
+    "bursts": [
+      {
+        "start_s": 0.02,
+        "end_s": 0.59,
+        "dur_s": 0.57,
+        "peak_db": -13.3
+      },
+      {
+        "start_s": 0.7,
+        "end_s": 2.265,
+        "dur_s": 1.565,
+        "peak_db": -14.7
+      }
+    ]
+  },
+  {
+    "file": "sound_effects_pack/Sound Effects Pack/Voice Lines/Agents/jett.mp3",
+    "abs_path": "/tmp/nirma_audio_work/raw_audio/sound_effects_pack/Sound Effects Pack/Voice Lines/Agents/jett.mp3",
+    "duration_s": 1.104,
+    "sample_rate": 48000,
+    "channels": 1,
+    "size_bytes": 47511,
+    "peak_db": -3.87,
+    "rms_db": -19.07,
+    "lead_silence_s": 0.0,
+    "active_end_s": 0.97,
+    "num_bursts": 1,
+    "bursts": [
+      {
+        "start_s": 0.0,
+        "end_s": 0.965,
+        "dur_s": 0.965,
+        "peak_db": -12.0
+      }
+    ]
+  },
+  {
+    "file": "sound_effects_pack/Sound Effects Pack/Voice Lines/Agents/omen.mp3",
+    "abs_path": "/tmp/nirma_audio_work/raw_audio/sound_effects_pack/Sound Effects Pack/Voice Lines/Agents/omen.mp3",
+    "duration_s": 2.352,
+    "sample_rate": 48000,
+    "channels": 1,
+    "size_bytes": 97431,
+    "peak_db": -6.68,
+    "rms_db": -25.37,
+    "lead_silence_s": 0.01,
+    "active_end_s": 2.14,
+    "num_bursts": 1,
+    "bursts": [
+      {
+        "start_s": 0.01,
+        "end_s": 2.12,
+        "dur_s": 2.11,
+        "peak_db": -17.6
+      }
+    ]
+  },
+  {
+    "file": "sound_effects_pack/Sound Effects Pack/Voice Lines/Agents/phoenix1.mp3",
+    "abs_path": "/tmp/nirma_audio_work/raw_audio/sound_effects_pack/Sound Effects Pack/Voice Lines/Agents/phoenix1.mp3",
+    "duration_s": 1.32,
+    "sample_rate": 48000,
+    "channels": 1,
+    "size_bytes": 56151,
+    "peak_db": -4.52,
+    "rms_db": -17.8,
+    "lead_silence_s": 0.015,
+    "active_end_s": 1.145,
+    "num_bursts": 2,
+    "bursts": [
+      {
+        "start_s": 0.01,
+        "end_s": 0.59,
+        "dur_s": 0.58,
+        "peak_db": -11.9
+      },
+      {
+        "start_s": 0.725,
+        "end_s": 1.115,
+        "dur_s": 0.39,
+        "peak_db": -11.4
+      }
+    ]
+  },
+  {
+    "file": "sound_effects_pack/Sound Effects Pack/Voice Lines/Agents/phoenix2.mp3",
+    "abs_path": "/tmp/nirma_audio_work/raw_audio/sound_effects_pack/Sound Effects Pack/Voice Lines/Agents/phoenix2.mp3",
+    "duration_s": 1.92,
+    "sample_rate": 48000,
+    "channels": 1,
+    "size_bytes": 80151,
+    "peak_db": -3.04,
+    "rms_db": -17.22,
+    "lead_silence_s": 0.01,
+    "active_end_s": 1.78,
+    "num_bursts": 3,
+    "bursts": [
+      {
+        "start_s": 0.01,
+        "end_s": 0.87,
+        "dur_s": 0.86,
+        "peak_db": -10.4
+      },
+      {
+        "start_s": 1.105,
+        "end_s": 1.305,
+        "dur_s": 0.2,
+        "peak_db": -12.3
+      },
+      {
+        "start_s": 1.455,
+        "end_s": 1.715,
+        "dur_s": 0.26,
+        "peak_db": -10.9
+      }
+    ]
+  },
+  {
+    "file": "sound_effects_pack/Sound Effects Pack/Voice Lines/Agents/raze1.mp3",
+    "abs_path": "/tmp/nirma_audio_work/raw_audio/sound_effects_pack/Sound Effects Pack/Voice Lines/Agents/raze1.mp3",
+    "duration_s": 1.464,
+    "sample_rate": 48000,
+    "channels": 1,
+    "size_bytes": 61911,
+    "peak_db": -2.28,
+    "rms_db": -17.31,
+    "lead_silence_s": 0.01,
+    "active_end_s": 1.345,
+    "num_bursts": 2,
+    "bursts": [
+      {
+        "start_s": 0.01,
+        "end_s": 0.52,
+        "dur_s": 0.51,
+        "peak_db": -10.1
+      },
+      {
+        "start_s": 0.57,
+        "end_s": 1.18,
+        "dur_s": 0.61,
+        "peak_db": -7.4
+      }
+    ]
+  },
+  {
+    "file": "sound_effects_pack/Sound Effects Pack/Voice Lines/Agents/raze2.mp3",
+    "abs_path": "/tmp/nirma_audio_work/raw_audio/sound_effects_pack/Sound Effects Pack/Voice Lines/Agents/raze2.mp3",
+    "duration_s": 1.632,
+    "sample_rate": 48000,
+    "channels": 1,
+    "size_bytes": 68631,
+    "peak_db": -2.05,
+    "rms_db": -19.85,
+    "lead_silence_s": 0.005,
+    "active_end_s": 1.53,
+    "num_bursts": 4,
+    "bursts": [
+      {
+        "start_s": 0.0,
+        "end_s": 0.285,
+        "dur_s": 0.285,
+        "peak_db": -12.8
+      },
+      {
+        "start_s": 0.35,
+        "end_s": 0.58,
+        "dur_s": 0.23,
+        "peak_db": -10.9
+      },
+      {
+        "start_s": 0.655,
+        "end_s": 0.76,
+        "dur_s": 0.105,
+        "peak_db": -19.5
+      },
+      {
+        "start_s": 0.89,
+        "end_s": 1.51,
+        "dur_s": 0.62,
+        "peak_db": -8.0
+      }
+    ]
+  },
+  {
+    "file": "sound_effects_pack/Sound Effects Pack/Voice Lines/Agents/reyna1.mp3",
+    "abs_path": "/tmp/nirma_audio_work/raw_audio/sound_effects_pack/Sound Effects Pack/Voice Lines/Agents/reyna1.mp3",
+    "duration_s": 1.5673,
+    "sample_rate": 44100,
+    "channels": 2,
+    "size_bytes": 25650,
+    "peak_db": 0.36,
+    "rms_db": -13.5,
+    "lead_silence_s": 0.05,
+    "active_end_s": 1.425,
+    "num_bursts": 1,
+    "bursts": [
+      {
+        "start_s": 0.05,
+        "end_s": 1.425,
+        "dur_s": 1.375,
+        "peak_db": -5.3
+      }
+    ]
+  },
+  {
+    "file": "sound_effects_pack/Sound Effects Pack/Voice Lines/Agents/reyna2.mp3",
+    "abs_path": "/tmp/nirma_audio_work/raw_audio/sound_effects_pack/Sound Effects Pack/Voice Lines/Agents/reyna2.mp3",
+    "duration_s": 1.5935,
+    "sample_rate": 44100,
+    "channels": 2,
+    "size_bytes": 24817,
+    "peak_db": 0.05,
+    "rms_db": -12.76,
+    "lead_silence_s": 0.03,
+    "active_end_s": 1.475,
+    "num_bursts": 2,
+    "bursts": [
+      {
+        "start_s": 0.03,
+        "end_s": 0.775,
+        "dur_s": 0.745,
+        "peak_db": -6.5
+      },
+      {
+        "start_s": 0.815,
+        "end_s": 1.425,
+        "dur_s": 0.61,
+        "peak_db": -6.0
+      }
+    ]
+  },
+  {
+    "file": "sound_effects_pack/Sound Effects Pack/Voice Lines/Agents/sage1.mp3",
+    "abs_path": "/tmp/nirma_audio_work/raw_audio/sound_effects_pack/Sound Effects Pack/Voice Lines/Agents/sage1.mp3",
+    "duration_s": 1.56,
+    "sample_rate": 48000,
+    "channels": 1,
+    "size_bytes": 65751,
+    "peak_db": -4.9,
+    "rms_db": -20.58,
+    "lead_silence_s": 0.0,
+    "active_end_s": 1.45,
+    "num_bursts": 2,
+    "bursts": [
+      {
+        "start_s": 0.0,
+        "end_s": 0.625,
+        "dur_s": 0.625,
+        "peak_db": -12.3
+      },
+      {
+        "start_s": 0.69,
+        "end_s": 1.445,
+        "dur_s": 0.755,
+        "peak_db": -12.2
+      }
+    ]
+  },
+  {
+    "file": "sound_effects_pack/Sound Effects Pack/Voice Lines/Agents/sage2.mp3",
+    "abs_path": "/tmp/nirma_audio_work/raw_audio/sound_effects_pack/Sound Effects Pack/Voice Lines/Agents/sage2.mp3",
+    "duration_s": 4.056,
+    "sample_rate": 48000,
+    "channels": 1,
+    "size_bytes": 165591,
+    "peak_db": -3.64,
+    "rms_db": -20.93,
+    "lead_silence_s": 0.06,
+    "active_end_s": 3.95,
+    "num_bursts": 8,
+    "bursts": [
+      {
+        "start_s": 0.055,
+        "end_s": 0.105,
+        "dur_s": 0.05,
+        "peak_db": -34.6
+      },
+      {
+        "start_s": 0.17,
+        "end_s": 0.41,
+        "dur_s": 0.24,
+        "peak_db": -13.6
+      },
+      {
+        "start_s": 0.455,
+        "end_s": 0.795,
+        "dur_s": 0.34,
+        "peak_db": -13.1
+      },
+      {
+        "start_s": 1.31,
+        "end_s": 2.335,
+        "dur_s": 1.025,
+        "peak_db": -11.9
+      },
+      {
+        "start_s": 2.39,
+        "end_s": 2.45,
+        "dur_s": 0.06,
+        "peak_db": -34.4
+      },
+      {
+        "start_s": 2.73,
+        "end_s": 3.295,
+        "dur_s": 0.565,
+        "peak_db": -11.5
+      },
+      {
+        "start_s": 3.415,
+        "end_s": 3.575,
+        "dur_s": 0.16,
+        "peak_db": -10.8
+      },
+      {
+        "start_s": 3.615,
+        "end_s": 3.945,
+        "dur_s": 0.33,
+        "peak_db": -24.6
+      }
+    ]
+  },
+  {
+    "file": "sound_effects_pack/Sound Effects Pack/Voice Lines/Agents/sova1.mp3",
+    "abs_path": "/tmp/nirma_audio_work/raw_audio/sound_effects_pack/Sound Effects Pack/Voice Lines/Agents/sova1.mp3",
+    "duration_s": 1.896,
+    "sample_rate": 48000,
+    "channels": 1,
+    "size_bytes": 79191,
+    "peak_db": -3.82,
+    "rms_db": -16.97,
+    "lead_silence_s": 0.01,
+    "active_end_s": 1.795,
+    "num_bursts": 3,
+    "bursts": [
+      {
+        "start_s": 0.0,
+        "end_s": 0.4,
+        "dur_s": 0.4,
+        "peak_db": -9.6
+      },
+      {
+        "start_s": 0.6,
+        "end_s": 1.4,
+        "dur_s": 0.8,
+        "peak_db": -11.0
+      },
+      {
+        "start_s": 1.46,
+        "end_s": 1.79,
+        "dur_s": 0.33,
+        "peak_db": -10.5
+      }
+    ]
+  },
+  {
+    "file": "sound_effects_pack/Sound Effects Pack/Voice Lines/Agents/sova2.mp3",
+    "abs_path": "/tmp/nirma_audio_work/raw_audio/sound_effects_pack/Sound Effects Pack/Voice Lines/Agents/sova2.mp3",
+    "duration_s": 1.632,
+    "sample_rate": 48000,
+    "channels": 1,
+    "size_bytes": 68631,
+    "peak_db": -4.15,
+    "rms_db": -15.92,
+    "lead_silence_s": 0.0,
+    "active_end_s": 1.565,
+    "num_bursts": 2,
+    "bursts": [
+      {
+        "start_s": 0.0,
+        "end_s": 0.725,
+        "dur_s": 0.725,
+        "peak_db": -10.8
+      },
+      {
+        "start_s": 0.805,
+        "end_s": 1.55,
+        "dur_s": 0.745,
+        "peak_db": -11.0
+      }
+    ]
+  },
+  {
+    "file": "sound_effects_pack/Sound Effects Pack/Voice Lines/Agents/viper1.mp3",
+    "abs_path": "/tmp/nirma_audio_work/raw_audio/sound_effects_pack/Sound Effects Pack/Voice Lines/Agents/viper1.mp3",
+    "duration_s": 2.088,
+    "sample_rate": 48000,
+    "channels": 1,
+    "size_bytes": 86871,
+    "peak_db": -7.53,
+    "rms_db": -21.62,
+    "lead_silence_s": 0.01,
+    "active_end_s": 1.79,
+    "num_bursts": 1,
+    "bursts": [
+      {
+        "start_s": 0.005,
+        "end_s": 1.78,
+        "dur_s": 1.775,
+        "peak_db": -15.1
+      }
+    ]
+  },
+  {
+    "file": "sound_effects_pack/Sound Effects Pack/Voice Lines/Agents/viper2.mp3",
+    "abs_path": "/tmp/nirma_audio_work/raw_audio/sound_effects_pack/Sound Effects Pack/Voice Lines/Agents/viper2.mp3",
+    "duration_s": 2.64,
+    "sample_rate": 48000,
+    "channels": 1,
+    "size_bytes": 108951,
+    "peak_db": -7.38,
+    "rms_db": -22.49,
+    "lead_silence_s": 0.03,
+    "active_end_s": 2.3,
+    "num_bursts": 1,
+    "bursts": [
+      {
+        "start_s": 0.03,
+        "end_s": 2.285,
+        "dur_s": 2.255,
+        "peak_db": -15.6
+      }
+    ]
+  },
+  {
+    "file": "sound_effects_pack/Sound Effects Pack/Kill Sounds/1stKill.mp3",
+    "abs_path": "/tmp/nirma_audio_work/raw_audio/sound_effects_pack/Sound Effects Pack/Kill Sounds/1stKill.mp3",
+    "duration_s": 0.862,
+    "sample_rate": 44100,
+    "channels": 2,
+    "size_bytes": 18186,
+    "peak_db": -4.03,
+    "rms_db": -17.81,
+    "lead_silence_s": 0.015,
+    "active_end_s": 0.82,
+    "num_bursts": 1,
+    "bursts": [
+      {
+        "start_s": 0.015,
+        "end_s": 0.82,
+        "dur_s": 0.805,
+        "peak_db": -6.8
+      }
+    ]
+  },
+  {
+    "file": "sound_effects_pack/Sound Effects Pack/Kill Sounds/2ndKill.mp3",
+    "abs_path": "/tmp/nirma_audio_work/raw_audio/sound_effects_pack/Sound Effects Pack/Kill Sounds/2ndKill.mp3",
+    "duration_s": 0.8882,
+    "sample_rate": 44100,
+    "channels": 2,
+    "size_bytes": 19335,
+    "peak_db": -2.99,
+    "rms_db": -17.43,
+    "lead_silence_s": 0.025,
+    "active_end_s": 0.84,
+    "num_bursts": 1,
+    "bursts": [
+      {
+        "start_s": 0.025,
+        "end_s": 0.84,
+        "dur_s": 0.815,
+        "peak_db": -7.9
+      }
+    ]
+  },
+  {
+    "file": "sound_effects_pack/Sound Effects Pack/Kill Sounds/3rdKill.mp3",
+    "abs_path": "/tmp/nirma_audio_work/raw_audio/sound_effects_pack/Sound Effects Pack/Kill Sounds/3rdKill.mp3",
+    "duration_s": 0.862,
+    "sample_rate": 44100,
+    "channels": 2,
+    "size_bytes": 18187,
+    "peak_db": -5.22,
+    "rms_db": -17.92,
+    "lead_silence_s": 0.02,
+    "active_end_s": 0.82,
+    "num_bursts": 1,
+    "bursts": [
+      {
+        "start_s": 0.02,
+        "end_s": 0.82,
+        "dur_s": 0.8,
+        "peak_db": -8.9
+      }
+    ]
+  },
+  {
+    "file": "sound_effects_pack/Sound Effects Pack/Kill Sounds/4thKill.mp3",
+    "abs_path": "/tmp/nirma_audio_work/raw_audio/sound_effects_pack/Sound Effects Pack/Kill Sounds/4thKill.mp3",
+    "duration_s": 0.8882,
+    "sample_rate": 44100,
+    "channels": 2,
+    "size_bytes": 19074,
+    "peak_db": -5.74,
+    "rms_db": -20.06,
+    "lead_silence_s": 0.03,
+    "active_end_s": 0.85,
+    "num_bursts": 1,
+    "bursts": [
+      {
+        "start_s": 0.03,
+        "end_s": 0.85,
+        "dur_s": 0.82,
+        "peak_db": -11.7
+      }
+    ]
+  },
+  {
+    "file": "sound_effects_pack/Sound Effects Pack/Kill Sounds/ace.mp3",
+    "abs_path": "/tmp/nirma_audio_work/raw_audio/sound_effects_pack/Sound Effects Pack/Kill Sounds/ace.mp3",
+    "duration_s": 4.6498,
+    "sample_rate": 44100,
+    "channels": 2,
+    "size_bytes": 91759,
+    "peak_db": -4.97,
+    "rms_db": -23.11,
+    "lead_silence_s": 0.0,
+    "active_end_s": 4.34,
+    "num_bursts": 1,
+    "bursts": [
+      {
+        "start_s": 0.0,
+        "end_s": 4.025,
+        "dur_s": 4.025,
+        "peak_db": -11.1
+      }
+    ]
+  },
+  {
+    "file": "sound_effects_pack/Sound Effects Pack/Kill Sounds/headshotSound.mp3",
+    "abs_path": "/tmp/nirma_audio_work/raw_audio/sound_effects_pack/Sound Effects Pack/Kill Sounds/headshotSound.mp3",
+    "duration_s": 0.624,
+    "sample_rate": 48000,
+    "channels": 1,
+    "size_bytes": 28311,
+    "peak_db": 0.19,
+    "rms_db": -11.36,
+    "lead_silence_s": 0.0,
+    "active_end_s": 0.465,
+    "num_bursts": 1,
+    "bursts": [
+      {
+        "start_s": 0.0,
+        "end_s": 0.425,
+        "dur_s": 0.425,
+        "peak_db": -3.9
+      }
+    ]
+  },
+  {
+    "file": "abilities_pack/Abilities/Omen/Omen_Dark_Cover_Hm.mp3",
+    "abs_path": "/tmp/nirma_audio_work/raw_audio/abilities_pack/Abilities/Omen/Omen_Dark_Cover_Hm.mp3",
+    "duration_s": 8.1763,
+    "sample_rate": 44100,
+    "channels": 2,
+    "size_bytes": 131392,
+    "peak_db": -13.18,
+    "rms_db": -34.43,
+    "lead_silence_s": 0.3,
+    "active_end_s": 6.22,
+    "num_bursts": 4,
+    "bursts": [
+      {
+        "start_s": 0.265,
+        "end_s": 0.975,
+        "dur_s": 0.71,
+        "peak_db": -28.5
+      },
+      {
+        "start_s": 2.34,
+        "end_s": 2.35,
+        "dur_s": 0.01,
+        "peak_db": -39.4
+      },
+      {
+        "start_s": 2.395,
+        "end_s": 2.415,
+        "dur_s": 0.02,
+        "peak_db": -41.7
+      },
+      {
+        "start_s": 4.19,
+        "end_s": 6.14,
+        "dur_s": 1.95,
+        "peak_db": -20.1
+      }
+    ]
+  },
+  {
+    "file": "abilities_pack/Abilities/Omen/Omen_Dark_Cover_Multiple.mp3",
+    "abs_path": "/tmp/nirma_audio_work/raw_audio/abilities_pack/Abilities/Omen/Omen_Dark_Cover_Multiple.mp3",
+    "duration_s": 9.6653,
+    "sample_rate": 44100,
+    "channels": 2,
+    "size_bytes": 155215,
+    "peak_db": -13.38,
+    "rms_db": -29.87,
+    "lead_silence_s": 0.44,
+    "active_end_s": 9.64,
+    "num_bursts": 10,
+    "bursts": [
+      {
+        "start_s": 0.405,
+        "end_s": 1.205,
+        "dur_s": 0.8,
+        "peak_db": -28.9
+      },
+      {
+        "start_s": 1.755,
+        "end_s": 3.615,
+        "dur_s": 1.86,
+        "peak_db": -18.7
+      },
+      {
+        "start_s": 3.66,
+        "end_s": 3.82,
+        "dur_s": 0.16,
+        "peak_db": -39.6
+      },
+      {
+        "start_s": 3.88,
+        "end_s": 4.85,
+        "dur_s": 0.97,
+        "peak_db": -26.6
+      },
+      {
+        "start_s": 4.955,
+        "end_s": 4.995,
+        "dur_s": 0.04,
+        "peak_db": -40.8
+      },
+      {
+        "start_s": 5.24,
+        "end_s": 5.26,
+        "dur_s": 0.02,
+        "peak_db": -41.3
+      },
+      {
+        "start_s": 5.385,
+        "end_s": 8.17,
+        "dur_s": 2.785,
+        "peak_db": -20.3
+      },
+      {
+        "start_s": 8.21,
+        "end_s": 8.23,
+        "dur_s": 0.02,
+        "peak_db": -40.7
+      },
+      {
+        "start_s": 8.27,
+        "end_s": 8.435,
+        "dur_s": 0.165,
+        "peak_db": -38.8
+      },
+      {
+        "start_s": 8.575,
+        "end_s": 9.64,
+        "dur_s": 1.065,
+        "peak_db": -18.6
+      }
+    ]
+  },
+  {
+    "file": "abilities_pack/Abilities/Omen/Omen_Shrouded_Step_Cover_Going_Out.mp3",
+    "abs_path": "/tmp/nirma_audio_work/raw_audio/abilities_pack/Abilities/Omen/Omen_Shrouded_Step_Cover_Going_Out.mp3",
+    "duration_s": 5.7469,
+    "sample_rate": 44100,
+    "channels": 2,
+    "size_bytes": 92522,
+    "peak_db": -13.03,
+    "rms_db": -29.59,
+    "lead_silence_s": 1.28,
+    "active_end_s": 5.695,
+    "num_bursts": 2,
+    "bursts": [
+      {
+        "start_s": 1.275,
+        "end_s": 2.445,
+        "dur_s": 1.17,
+        "peak_db": -22.6
+      },
+      {
+        "start_s": 2.865,
+        "end_s": 5.455,
+        "dur_s": 2.59,
+        "peak_db": -17.4
+      }
+    ]
+  },
+  {
+    "file": "abilities_pack/Abilities/Omen/Omen_Shrouded_Step_Shadows_Travelling.mp3",
+    "abs_path": "/tmp/nirma_audio_work/raw_audio/abilities_pack/Abilities/Omen/Omen_Shrouded_Step_Shadows_Travelling.mp3",
+    "duration_s": 3.9967,
+    "sample_rate": 44100,
+    "channels": 2,
+    "size_bytes": 64518,
+    "peak_db": -12.38,
+    "rms_db": -27.31,
+    "lead_silence_s": 0.72,
+    "active_end_s": 3.975,
+    "num_bursts": 1,
+    "bursts": [
+      {
+        "start_s": 0.71,
+        "end_s": 3.975,
+        "dur_s": 3.265,
+        "peak_db": -16.8
+      }
+    ]
+  },
+  {
+    "file": "abilities_pack/Abilities/Cypher/Cypher_Camera_Pickup.mp3",
+    "abs_path": "/tmp/nirma_audio_work/raw_audio/abilities_pack/Abilities/Cypher/Cypher_Camera_Pickup.mp3",
+    "duration_s": 2.5339,
+    "sample_rate": 44100,
+    "channels": 2,
+    "size_bytes": 41113,
+    "peak_db": -8.37,
+    "rms_db": -25.31,
+    "lead_silence_s": 0.535,
+    "active_end_s": 1.6,
+    "num_bursts": 2,
+    "bursts": [
+      {
+        "start_s": 0.535,
+        "end_s": 1.505,
+        "dur_s": 0.97,
+        "peak_db": -13.5
+      },
+      {
+        "start_s": 1.58,
+        "end_s": 1.595,
+        "dur_s": 0.015,
+        "peak_db": -32.9
+      }
+    ]
+  },
+  {
+    "file": "abilities_pack/Abilities/Cypher/Cypher_Camera_Placement.mp3",
+    "abs_path": "/tmp/nirma_audio_work/raw_audio/abilities_pack/Abilities/Cypher/Cypher_Camera_Placement.mp3",
+    "duration_s": 5.0939,
+    "sample_rate": 44100,
+    "channels": 2,
+    "size_bytes": 82073,
+    "peak_db": -14.85,
+    "rms_db": -38.16,
+    "lead_silence_s": 0.53,
+    "active_end_s": 2.83,
+    "num_bursts": 4,
+    "bursts": [
+      {
+        "start_s": 0.53,
+        "end_s": 0.81,
+        "dur_s": 0.28,
+        "peak_db": -29.9
+      },
+      {
+        "start_s": 1.27,
+        "end_s": 2.12,
+        "dur_s": 0.85,
+        "peak_db": -19.6
+      },
+      {
+        "start_s": 2.205,
+        "end_s": 2.265,
+        "dur_s": 0.06,
+        "peak_db": -36.2
+      },
+      {
+        "start_s": 2.57,
+        "end_s": 2.62,
+        "dur_s": 0.05,
+        "peak_db": -41.7
+      }
+    ]
+  },
+  {
+    "file": "abilities_pack/Abilities/Cypher/Cypher_Cyber_Cage_Cage_Triggered.mp3",
+    "abs_path": "/tmp/nirma_audio_work/raw_audio/abilities_pack/Abilities/Cypher/Cypher_Cyber_Cage_Cage_Triggered.mp3",
+    "duration_s": 5.7469,
+    "sample_rate": 44100,
+    "channels": 2,
+    "size_bytes": 92522,
+    "peak_db": -11.94,
+    "rms_db": -34.79,
+    "lead_silence_s": 0.09,
+    "active_end_s": 4.055,
+    "num_bursts": 3,
+    "bursts": [
+      {
+        "start_s": 0.085,
+        "end_s": 0.375,
+        "dur_s": 0.29,
+        "peak_db": -27.3
+      },
+      {
+        "start_s": 0.8,
+        "end_s": 0.99,
+        "dur_s": 0.19,
+        "peak_db": -33.1
+      },
+      {
+        "start_s": 3.18,
+        "end_s": 4.02,
+        "dur_s": 0.84,
+        "peak_db": -19.5
+      }
+    ]
+  },
+  {
+    "file": "abilities_pack/Abilities/Cypher/Cypher_Cyber_Cage_Inside_Sound.mp3",
+    "abs_path": "/tmp/nirma_audio_work/raw_audio/abilities_pack/Abilities/Cypher/Cypher_Cyber_Cage_Inside_Sound.mp3",
+    "duration_s": 2.7167,
+    "sample_rate": 44100,
+    "channels": 2,
+    "size_bytes": 44038,
+    "peak_db": -25.03,
+    "rms_db": -34.58,
+    "lead_silence_s": 0.01,
+    "active_end_s": 2.69,
+    "num_bursts": 1,
+    "bursts": [
+      {
+        "start_s": 0.005,
+        "end_s": 2.69,
+        "dur_s": 2.685,
+        "peak_db": -28.7
+      }
+    ]
+  },
+  {
+    "file": "abilities_pack/Abilities/Cypher/Cypher_Trap_Wire_Pickup.mp3",
+    "abs_path": "/tmp/nirma_audio_work/raw_audio/abilities_pack/Abilities/Cypher/Cypher_Trap_Wire_Pickup.mp3",
+    "duration_s": 3.9967,
+    "sample_rate": 44100,
+    "channels": 2,
+    "size_bytes": 64518,
+    "peak_db": -13.28,
+    "rms_db": -32.17,
+    "lead_silence_s": 2.16,
+    "active_end_s": 3.205,
+    "num_bursts": 2,
+    "bursts": [
+      {
+        "start_s": 2.15,
+        "end_s": 3.13,
+        "dur_s": 0.98,
+        "peak_db": -17.6
+      },
+      {
+        "start_s": 3.18,
+        "end_s": 3.2,
+        "dur_s": 0.02,
+        "peak_db": -31.9
+      }
+    ]
+  },
+  {
+    "file": "abilities_pack/Abilities/Cypher/Cypher_Trap_Wire_Placement.mp3",
+    "abs_path": "/tmp/nirma_audio_work/raw_audio/abilities_pack/Abilities/Cypher/Cypher_Trap_Wire_Placement.mp3",
+    "duration_s": 5.7469,
+    "sample_rate": 44100,
+    "channels": 2,
+    "size_bytes": 92522,
+    "peak_db": -14.17,
+    "rms_db": -37.36,
+    "lead_silence_s": 0.685,
+    "active_end_s": 4.505,
+    "num_bursts": 9,
+    "bursts": [
+      {
+        "start_s": 0.685,
+        "end_s": 0.725,
+        "dur_s": 0.04,
+        "peak_db": -36.2
+      },
+      {
+        "start_s": 0.8,
+        "end_s": 0.83,
+        "dur_s": 0.03,
+        "peak_db": -34.1
+      },
+      {
+        "start_s": 0.895,
+        "end_s": 0.91,
+        "dur_s": 0.015,
+        "peak_db": -34.8
+      },
+      {
+        "start_s": 1.005,
+        "end_s": 1.02,
+        "dur_s": 0.015,
+        "peak_db": -34.2
+      },
+      {
+        "start_s": 1.26,
+        "end_s": 1.29,
+        "dur_s": 0.03,
+        "peak_db": -39.0
+      },
+      {
+        "start_s": 1.34,
+        "end_s": 1.55,
+        "dur_s": 0.21,
+        "peak_db": -27.7
+      },
+      {
+        "start_s": 2.225,
+        "end_s": 2.8,
+        "dur_s": 0.575,
+        "peak_db": -19.1
+      },
+      {
+        "start_s": 2.87,
+        "end_s": 3.32,
+        "dur_s": 0.45,
+        "peak_db": -18.9
+      },
+      {
+        "start_s": 3.93,
+        "end_s": 4.425,
+        "dur_s": 0.495,
+        "peak_db": -33.4
+      }
+    ]
+  },
+  {
+    "file": "abilities_pack/Abilities/Sova/Sova_Drone_Take_Flight.mp3",
+    "abs_path": "/tmp/nirma_audio_work/raw_audio/abilities_pack/Abilities/Sova/Sova_Drone_Take_Flight.mp3",
+    "duration_s": 13.2963,
+    "sample_rate": 44100,
+    "channels": 2,
+    "size_bytes": 213312,
+    "peak_db": -8.73,
+    "rms_db": -37.06,
+    "lead_silence_s": 0.15,
+    "active_end_s": 12.445,
+    "num_bursts": 17,
+    "bursts": [
+      {
+        "start_s": 0.15,
+        "end_s": 0.175,
+        "dur_s": 0.025,
+        "peak_db": -36.9
+      },
+      {
+        "start_s": 0.27,
+        "end_s": 0.425,
+        "dur_s": 0.155,
+        "peak_db": -37.0
+      },
+      {
+        "start_s": 0.465,
+        "end_s": 0.63,
+        "dur_s": 0.165,
+        "peak_db": -35.3
+      },
+      {
+        "start_s": 0.975,
+        "end_s": 1.81,
+        "dur_s": 0.835,
+        "peak_db": -21.6
+      },
+      {
+        "start_s": 2.42,
+        "end_s": 3.655,
+        "dur_s": 1.235,
+        "peak_db": -39.5
+      },
+      {
+        "start_s": 3.7,
+        "end_s": 4.25,
+        "dur_s": 0.55,
+        "peak_db": -39.2
+      },
+      {
+        "start_s": 4.295,
+        "end_s": 6.295,
+        "dur_s": 2.0,
+        "peak_db": -38.8
+      },
+      {
+        "start_s": 6.365,
+        "end_s": 6.59,
+        "dur_s": 0.225,
+        "peak_db": -40.0
+      },
+      {
+        "start_s": 6.965,
+        "end_s": 7.1,
+        "dur_s": 0.135,
+        "peak_db": -40.1
+      },
+      {
+        "start_s": 7.215,
+        "end_s": 7.295,
+        "dur_s": 0.08,
+        "peak_db": -41.9
+      },
+      {
+        "start_s": 7.9,
+        "end_s": 8.445,
+        "dur_s": 0.545,
+        "peak_db": -14.8
+      },
+      {
+        "start_s": 9.965,
+        "end_s": 10.055,
+        "dur_s": 0.09,
+        "peak_db": -39.9
+      },
+      {
+        "start_s": 10.095,
+        "end_s": 10.28,
+        "dur_s": 0.185,
+        "peak_db": -39.4
+      },
+      {
+        "start_s": 10.445,
+        "end_s": 11.295,
+        "dur_s": 0.85,
+        "peak_db": -38.6
+      },
+      {
+        "start_s": 12.145,
+        "end_s": 12.195,
+        "dur_s": 0.05,
+        "peak_db": -32.6
+      },
+      {
+        "start_s": 12.235,
+        "end_s": 12.245,
+        "dur_s": 0.01,
+        "peak_db": -40.0
+      },
+      {
+        "start_s": 12.37,
+        "end_s": 12.415,
+        "dur_s": 0.045,
+        "peak_db": -30.8
+      }
+    ]
+  },
+  {
+    "file": "abilities_pack/Abilities/Sova/Sova_Recon_Bolt_Revealing_Area_1.mp3",
+    "abs_path": "/tmp/nirma_audio_work/raw_audio/abilities_pack/Abilities/Sova/Sova_Recon_Bolt_Revealing_Area_1.mp3",
+    "duration_s": 8.1502,
+    "sample_rate": 44100,
+    "channels": 2,
+    "size_bytes": 130974,
+    "peak_db": -11.5,
+    "rms_db": -32.4,
+    "lead_silence_s": 0.415,
+    "active_end_s": 8.115,
+    "num_bursts": 14,
+    "bursts": [
+      {
+        "start_s": 0.415,
+        "end_s": 0.445,
+        "dur_s": 0.03,
+        "peak_db": -36.5
+      },
+      {
+        "start_s": 0.505,
+        "end_s": 0.53,
+        "dur_s": 0.025,
+        "peak_db": -40.1
+      },
+      {
+        "start_s": 0.57,
+        "end_s": 0.94,
+        "dur_s": 0.37,
+        "peak_db": -29.2
+      },
+      {
+        "start_s": 1.04,
+        "end_s": 1.665,
+        "dur_s": 0.625,
+        "peak_db": -25.3
+      },
+      {
+        "start_s": 1.895,
+        "end_s": 2.06,
+        "dur_s": 0.165,
+        "peak_db": -41.5
+      },
+      {
+        "start_s": 2.11,
+        "end_s": 2.12,
+        "dur_s": 0.01,
+        "peak_db": -41.9
+      },
+      {
+        "start_s": 2.305,
+        "end_s": 2.4,
+        "dur_s": 0.095,
+        "peak_db": -28.5
+      },
+      {
+        "start_s": 2.46,
+        "end_s": 2.8,
+        "dur_s": 0.34,
+        "peak_db": -38.2
+      },
+      {
+        "start_s": 2.92,
+        "end_s": 3.875,
+        "dur_s": 0.955,
+        "peak_db": -17.2
+      },
+      {
+        "start_s": 4.0,
+        "end_s": 4.075,
+        "dur_s": 0.075,
+        "peak_db": -30.3
+      },
+      {
+        "start_s": 4.21,
+        "end_s": 4.47,
+        "dur_s": 0.26,
+        "peak_db": -39.0
+      },
+      {
+        "start_s": 4.69,
+        "end_s": 4.735,
+        "dur_s": 0.045,
+        "peak_db": -41.9
+      },
+      {
+        "start_s": 5.74,
+        "end_s": 6.255,
+        "dur_s": 0.515,
+        "peak_db": -37.1
+      },
+      {
+        "start_s": 7.48,
+        "end_s": 7.835,
+        "dur_s": 0.355,
+        "peak_db": -38.1
+      }
+    ]
+  },
+  {
+    "file": "abilities_pack/Abilities/Sova/Sova_Recon_Bolt_Revealing_Area_2.mp3",
+    "abs_path": "/tmp/nirma_audio_work/raw_audio/abilities_pack/Abilities/Sova/Sova_Recon_Bolt_Revealing_Area_2.mp3",
+    "duration_s": 7.4188,
+    "sample_rate": 44100,
+    "channels": 2,
+    "size_bytes": 119271,
+    "peak_db": -11.55,
+    "rms_db": -33.17,
+    "lead_silence_s": 0.01,
+    "active_end_s": 7.205,
+    "num_bursts": 11,
+    "bursts": [
+      {
+        "start_s": 0.01,
+        "end_s": 0.335,
+        "dur_s": 0.325,
+        "peak_db": -29.6
+      },
+      {
+        "start_s": 0.445,
+        "end_s": 0.915,
+        "dur_s": 0.47,
+        "peak_db": -25.7
+      },
+      {
+        "start_s": 1.05,
+        "end_s": 1.09,
+        "dur_s": 0.04,
+        "peak_db": -39.9
+      },
+      {
+        "start_s": 1.32,
+        "end_s": 1.395,
+        "dur_s": 0.075,
+        "peak_db": -40.9
+      },
+      {
+        "start_s": 1.605,
+        "end_s": 2.81,
+        "dur_s": 1.205,
+        "peak_db": -18.4
+      },
+      {
+        "start_s": 2.855,
+        "end_s": 2.905,
+        "dur_s": 0.05,
+        "peak_db": -30.7
+      },
+      {
+        "start_s": 3.105,
+        "end_s": 3.295,
+        "dur_s": 0.19,
+        "peak_db": -39.7
+      },
+      {
+        "start_s": 3.565,
+        "end_s": 3.83,
+        "dur_s": 0.265,
+        "peak_db": -40.8
+      },
+      {
+        "start_s": 4.6,
+        "end_s": 4.955,
+        "dur_s": 0.355,
+        "peak_db": -36.9
+      },
+      {
+        "start_s": 5.0,
+        "end_s": 5.11,
+        "dur_s": 0.11,
+        "peak_db": -40.9
+      },
+      {
+        "start_s": 6.42,
+        "end_s": 6.715,
+        "dur_s": 0.295,
+        "peak_db": -39.8
+      }
+    ]
+  },
+  {
+    "file": "abilities_pack/Abilities/Sova/Sova_Shock_Bolt.mp3",
+    "abs_path": "/tmp/nirma_audio_work/raw_audio/abilities_pack/Abilities/Sova/Sova_Shock_Bolt.mp3",
+    "duration_s": 5.2767,
+    "sample_rate": 44100,
+    "channels": 2,
+    "size_bytes": 84998,
+    "peak_db": -10.27,
+    "rms_db": -32.06,
+    "lead_silence_s": 0.3,
+    "active_end_s": 4.505,
+    "num_bursts": 5,
+    "bursts": [
+      {
+        "start_s": 0.3,
+        "end_s": 0.325,
+        "dur_s": 0.025,
+        "peak_db": -37.1
+      },
+      {
+        "start_s": 0.39,
+        "end_s": 0.825,
+        "dur_s": 0.435,
+        "peak_db": -30.7
+      },
+      {
+        "start_s": 1.01,
+        "end_s": 1.055,
+        "dur_s": 0.045,
+        "peak_db": -40.8
+      },
+      {
+        "start_s": 1.175,
+        "end_s": 2.925,
+        "dur_s": 1.75,
+        "peak_db": -17.9
+      },
+      {
+        "start_s": 2.975,
+        "end_s": 4.255,
+        "dur_s": 1.28,
+        "peak_db": -20.3
+      }
+    ]
+  },
+  {
+    "file": "abilities_pack/Abilities/Viper/Viper_Poison_Orb_Emitting_Off.mp3",
+    "abs_path": "/tmp/nirma_audio_work/raw_audio/abilities_pack/Abilities/Viper/Viper_Poison_Orb_Emitting_Off.mp3",
+    "duration_s": 13.009,
+    "sample_rate": 44100,
+    "channels": 2,
+    "size_bytes": 208714,
+    "peak_db": -13.65,
+    "rms_db": -34.53,
+    "lead_silence_s": 0.37,
+    "active_end_s": 10.025,
+    "num_bursts": 8,
+    "bursts": [
+      {
+        "start_s": 0.37,
+        "end_s": 1.065,
+        "dur_s": 0.695,
+        "peak_db": -31.5
+      },
+      {
+        "start_s": 1.245,
+        "end_s": 1.265,
+        "dur_s": 0.02,
+        "peak_db": -39.6
+      },
+      {
+        "start_s": 1.73,
+        "end_s": 2.245,
+        "dur_s": 0.515,
+        "peak_db": -27.5
+      },
+      {
+        "start_s": 2.455,
+        "end_s": 2.685,
+        "dur_s": 0.23,
+        "peak_db": -32.1
+      },
+      {
+        "start_s": 2.815,
+        "end_s": 2.86,
+        "dur_s": 0.045,
+        "peak_db": -30.9
+      },
+      {
+        "start_s": 4.42,
+        "end_s": 6.15,
+        "dur_s": 1.73,
+        "peak_db": -21.9
+      },
+      {
+        "start_s": 8.56,
+        "end_s": 9.265,
+        "dur_s": 0.705,
+        "peak_db": -20.9
+      },
+      {
+        "start_s": 9.325,
+        "end_s": 9.81,
+        "dur_s": 0.485,
+        "peak_db": -33.3
+      }
+    ]
+  },
+  {
+    "file": "abilities_pack/Abilities/Viper/Viper_Screen_Going_Up_And_Down.mp3",
+    "abs_path": "/tmp/nirma_audio_work/raw_audio/abilities_pack/Abilities/Viper/Viper_Screen_Going_Up_And_Down.mp3",
+    "duration_s": 12.9306,
+    "sample_rate": 44100,
+    "channels": 2,
+    "size_bytes": 207460,
+    "peak_db": -12.07,
+    "rms_db": -33.43,
+    "lead_silence_s": 1.205,
+    "active_end_s": 11.495,
+    "num_bursts": 7,
+    "bursts": [
+      {
+        "start_s": 1.205,
+        "end_s": 1.535,
+        "dur_s": 0.33,
+        "peak_db": -37.7
+      },
+      {
+        "start_s": 2.78,
+        "end_s": 3.81,
+        "dur_s": 1.03,
+        "peak_db": -15.4
+      },
+      {
+        "start_s": 3.86,
+        "end_s": 3.935,
+        "dur_s": 0.075,
+        "peak_db": -30.9
+      },
+      {
+        "start_s": 4.575,
+        "end_s": 5.55,
+        "dur_s": 0.975,
+        "peak_db": -19.3
+      },
+      {
+        "start_s": 5.59,
+        "end_s": 6.065,
+        "dur_s": 0.475,
+        "peak_db": -27.8
+      },
+      {
+        "start_s": 6.105,
+        "end_s": 6.43,
+        "dur_s": 0.325,
+        "peak_db": -38.1
+      },
+      {
+        "start_s": 9.48,
+        "end_s": 11.4,
+        "dur_s": 1.92,
+        "peak_db": -21.1
+      }
+    ]
+  },
+  {
+    "file": "abilities_pack/Abilities/Viper/Viper_Snake_Bite_Close_Damage.mp3",
+    "abs_path": "/tmp/nirma_audio_work/raw_audio/abilities_pack/Abilities/Viper/Viper_Snake_Bite_Close_Damage.mp3",
+    "duration_s": 7.4449,
+    "sample_rate": 44100,
+    "channels": 2,
+    "size_bytes": 119689,
+    "peak_db": -9.06,
+    "rms_db": -31.47,
+    "lead_silence_s": 0.69,
+    "active_end_s": 7.415,
+    "num_bursts": 12,
+    "bursts": [
+      {
+        "start_s": 0.665,
+        "end_s": 0.755,
+        "dur_s": 0.09,
+        "peak_db": -38.3
+      },
+      {
+        "start_s": 0.8,
+        "end_s": 0.91,
+        "dur_s": 0.11,
+        "peak_db": -36.7
+      },
+      {
+        "start_s": 1.105,
+        "end_s": 1.215,
+        "dur_s": 0.11,
+        "peak_db": -41.0
+      },
+      {
+        "start_s": 1.255,
+        "end_s": 1.52,
+        "dur_s": 0.265,
+        "peak_db": -34.2
+      },
+      {
+        "start_s": 2.2,
+        "end_s": 3.84,
+        "dur_s": 1.64,
+        "peak_db": -17.6
+      },
+      {
+        "start_s": 3.92,
+        "end_s": 4.24,
+        "dur_s": 0.32,
+        "peak_db": -25.5
+      },
+      {
+        "start_s": 4.47,
+        "end_s": 4.7,
+        "dur_s": 0.23,
+        "peak_db": -25.2
+      },
+      {
+        "start_s": 4.87,
+        "end_s": 5.72,
+        "dur_s": 0.85,
+        "peak_db": -25.9
+      },
+      {
+        "start_s": 5.975,
+        "end_s": 6.38,
+        "dur_s": 0.405,
+        "peak_db": -26.4
+      },
+      {
+        "start_s": 6.45,
+        "end_s": 6.7,
+        "dur_s": 0.25,
+        "peak_db": -25.5
+      },
+      {
+        "start_s": 6.81,
+        "end_s": 6.84,
+        "dur_s": 0.03,
+        "peak_db": -41.8
+      },
+      {
+        "start_s": 6.965,
+        "end_s": 7.25,
+        "dur_s": 0.285,
+        "peak_db": -25.5
+      }
+    ]
+  },
+  {
+    "file": "abilities_pack/Abilities/Viper/Viper_Snake_Bite_Distance.mp3",
+    "abs_path": "/tmp/nirma_audio_work/raw_audio/abilities_pack/Abilities/Viper/Viper_Snake_Bite_Distance.mp3",
+    "duration_s": 8.2286,
+    "sample_rate": 44100,
+    "channels": 2,
+    "size_bytes": 132228,
+    "peak_db": -11.69,
+    "rms_db": -36.47,
+    "lead_silence_s": 0.93,
+    "active_end_s": 5.15,
+    "num_bursts": 6,
+    "bursts": [
+      {
+        "start_s": 0.93,
+        "end_s": 1.035,
+        "dur_s": 0.105,
+        "peak_db": -35.4
+      },
+      {
+        "start_s": 1.375,
+        "end_s": 1.71,
+        "dur_s": 0.335,
+        "peak_db": -33.9
+      },
+      {
+        "start_s": 2.48,
+        "end_s": 2.875,
+        "dur_s": 0.395,
+        "peak_db": -18.9
+      },
+      {
+        "start_s": 3.1,
+        "end_s": 3.135,
+        "dur_s": 0.035,
+        "peak_db": -38.6
+      },
+      {
+        "start_s": 3.345,
+        "end_s": 3.395,
+        "dur_s": 0.05,
+        "peak_db": -32.4
+      },
+      {
+        "start_s": 3.575,
+        "end_s": 4.935,
+        "dur_s": 1.36,
+        "peak_db": -28.2
+      }
+    ]
+  },
+  {
+    "file": "abilities_pack/Abilities/Breach/Breach_Aftershock.mp3",
+    "abs_path": "/tmp/nirma_audio_work/raw_audio/abilities_pack/Abilities/Breach/Breach_Aftershock.mp3",
+    "duration_s": 5.9037,
+    "sample_rate": 44100,
+    "channels": 2,
+    "size_bytes": 237345,
+    "peak_db": -9.13,
+    "rms_db": -28.61,
+    "lead_silence_s": 0.425,
+    "active_end_s": 5.88,
+    "num_bursts": 3,
+    "bursts": [
+      {
+        "start_s": 0.425,
+        "end_s": 1.62,
+        "dur_s": 1.195,
+        "peak_db": -20.4
+      },
+      {
+        "start_s": 1.925,
+        "end_s": 4.425,
+        "dur_s": 2.5,
+        "peak_db": -16.7
+      },
+      {
+        "start_s": 4.49,
+        "end_s": 5.88,
+        "dur_s": 1.39,
+        "peak_db": -30.9
+      }
+    ]
+  },
+  {
+    "file": "abilities_pack/Abilities/Breach/Breach_Fault_Line_1.mp3",
+    "abs_path": "/tmp/nirma_audio_work/raw_audio/abilities_pack/Abilities/Breach/Breach_Fault_Line_1.mp3",
+    "duration_s": 5.9037,
+    "sample_rate": 44100,
+    "channels": 2,
+    "size_bytes": 237345,
+    "peak_db": -8.52,
+    "rms_db": -24.35,
+    "lead_silence_s": 0.225,
+    "active_end_s": 5.875,
+    "num_bursts": 2,
+    "bursts": [
+      {
+        "start_s": 0.225,
+        "end_s": 1.115,
+        "dur_s": 0.89,
+        "peak_db": -19.6
+      },
+      {
+        "start_s": 2.325,
+        "end_s": 5.88,
+        "dur_s": 3.555,
+        "peak_db": -12.8
+      }
+    ]
+  },
+  {
+    "file": "abilities_pack/Abilities/Breach/Breach_Fault_Line_2.mp3",
+    "abs_path": "/tmp/nirma_audio_work/raw_audio/abilities_pack/Abilities/Breach/Breach_Fault_Line_2.mp3",
+    "duration_s": 4.5714,
+    "sample_rate": 44100,
+    "channels": 2,
+    "size_bytes": 184055,
+    "peak_db": -7.18,
+    "rms_db": -23.23,
+    "lead_silence_s": 0.355,
+    "active_end_s": 4.55,
+    "num_bursts": 2,
+    "bursts": [
+      {
+        "start_s": 0.355,
+        "end_s": 1.245,
+        "dur_s": 0.89,
+        "peak_db": -20.0
+      },
+      {
+        "start_s": 1.695,
+        "end_s": 4.55,
+        "dur_s": 2.855,
+        "peak_db": -12.4
+      }
+    ]
+  },
+  {
+    "file": "abilities_pack/Abilities/Breach/Breach_Flashpoint_Blinding.mp3",
+    "abs_path": "/tmp/nirma_audio_work/raw_audio/abilities_pack/Abilities/Breach/Breach_Flashpoint_Blinding.mp3",
+    "duration_s": 4.258,
+    "sample_rate": 44100,
+    "channels": 2,
+    "size_bytes": 171516,
+    "peak_db": -10.65,
+    "rms_db": -28.12,
+    "lead_silence_s": 0.255,
+    "active_end_s": 3.44,
+    "num_bursts": 3,
+    "bursts": [
+      {
+        "start_s": 0.25,
+        "end_s": 1.42,
+        "dur_s": 1.17,
+        "peak_db": -16.9
+      },
+      {
+        "start_s": 1.585,
+        "end_s": 2.88,
+        "dur_s": 1.295,
+        "peak_db": -17.9
+      },
+      {
+        "start_s": 2.95,
+        "end_s": 2.995,
+        "dur_s": 0.045,
+        "peak_db": -39.8
+      }
+    ]
+  },
+  {
+    "file": "abilities_pack/Abilities/Breach/Breach_Flashpoint_Flash_Out.mp3",
+    "abs_path": "/tmp/nirma_audio_work/raw_audio/abilities_pack/Abilities/Breach/Breach_Flashpoint_Flash_Out.mp3",
+    "duration_s": 3.4482,
+    "sample_rate": 44100,
+    "channels": 2,
+    "size_bytes": 139124,
+    "peak_db": -8.43,
+    "rms_db": -26.65,
+    "lead_silence_s": 0.33,
+    "active_end_s": 3.41,
+    "num_bursts": 3,
+    "bursts": [
+      {
+        "start_s": 0.32,
+        "end_s": 1.495,
+        "dur_s": 1.175,
+        "peak_db": -17.0
+      },
+      {
+        "start_s": 1.615,
+        "end_s": 2.905,
+        "dur_s": 1.29,
+        "peak_db": -16.2
+      },
+      {
+        "start_s": 2.965,
+        "end_s": 3.015,
+        "dur_s": 0.05,
+        "peak_db": -38.6
+      }
+    ]
+  },
+  {
+    "file": "abilities_pack/Abilities/Brimstone/Brimstone_Molly_1.mp3",
+    "abs_path": "/tmp/nirma_audio_work/raw_audio/abilities_pack/Abilities/Brimstone/Brimstone_Molly_1.mp3",
+    "duration_s": 5.8514,
+    "sample_rate": 44100,
+    "channels": 2,
+    "size_bytes": 94193,
+    "peak_db": -12.22,
+    "rms_db": -32.04,
+    "lead_silence_s": 0.37,
+    "active_end_s": 5.815,
+    "num_bursts": 12,
+    "bursts": [
+      {
+        "start_s": 0.37,
+        "end_s": 0.535,
+        "dur_s": 0.165,
+        "peak_db": -32.2
+      },
+      {
+        "start_s": 0.7,
+        "end_s": 0.935,
+        "dur_s": 0.235,
+        "peak_db": -25.3
+      },
+      {
+        "start_s": 1.25,
+        "end_s": 1.32,
+        "dur_s": 0.07,
+        "peak_db": -33.7
+      },
+      {
+        "start_s": 1.43,
+        "end_s": 1.595,
+        "dur_s": 0.165,
+        "peak_db": -25.4
+      },
+      {
+        "start_s": 2.15,
+        "end_s": 2.78,
+        "dur_s": 0.63,
+        "peak_db": -18.8
+      },
+      {
+        "start_s": 2.875,
+        "end_s": 2.92,
+        "dur_s": 0.045,
+        "peak_db": -34.2
+      },
+      {
+        "start_s": 3.075,
+        "end_s": 3.115,
+        "dur_s": 0.04,
+        "peak_db": -41.8
+      },
+      {
+        "start_s": 3.41,
+        "end_s": 4.83,
+        "dur_s": 1.42,
+        "peak_db": -23.6
+      },
+      {
+        "start_s": 5.015,
+        "end_s": 5.05,
+        "dur_s": 0.035,
+        "peak_db": -40.3
+      },
+      {
+        "start_s": 5.1,
+        "end_s": 5.34,
+        "dur_s": 0.24,
+        "peak_db": -40.6
+      },
+      {
+        "start_s": 5.4,
+        "end_s": 5.465,
+        "dur_s": 0.065,
+        "peak_db": -39.0
+      },
+      {
+        "start_s": 5.55,
+        "end_s": 5.605,
+        "dur_s": 0.055,
+        "peak_db": -41.8
+      }
+    ]
+  },
+  {
+    "file": "abilities_pack/Abilities/Brimstone/Brimstone_Molly_2.mp3",
+    "abs_path": "/tmp/nirma_audio_work/raw_audio/abilities_pack/Abilities/Brimstone/Brimstone_Molly_2.mp3",
+    "duration_s": 5.0155,
+    "sample_rate": 44100,
+    "channels": 2,
+    "size_bytes": 80819,
+    "peak_db": -8.09,
+    "rms_db": -30.57,
+    "lead_silence_s": 0.97,
+    "active_end_s": 4.98,
+    "num_bursts": 7,
+    "bursts": [
+      {
+        "start_s": 0.965,
+        "end_s": 1.1,
+        "dur_s": 0.135,
+        "peak_db": -32.3
+      },
+      {
+        "start_s": 1.3,
+        "end_s": 1.58,
+        "dur_s": 0.28,
+        "peak_db": -22.6
+      },
+      {
+        "start_s": 1.85,
+        "end_s": 1.92,
+        "dur_s": 0.07,
+        "peak_db": -33.3
+      },
+      {
+        "start_s": 2.01,
+        "end_s": 2.205,
+        "dur_s": 0.195,
+        "peak_db": -26.2
+      },
+      {
+        "start_s": 2.705,
+        "end_s": 3.475,
+        "dur_s": 0.77,
+        "peak_db": -16.9
+      },
+      {
+        "start_s": 3.96,
+        "end_s": 4.085,
+        "dur_s": 0.125,
+        "peak_db": -36.8
+      },
+      {
+        "start_s": 4.24,
+        "end_s": 4.98,
+        "dur_s": 0.74,
+        "peak_db": -20.3
+      }
+    ]
+  },
+  {
+    "file": "abilities_pack/Abilities/Brimstone/Brimstone_Smokes_Down.mp3",
+    "abs_path": "/tmp/nirma_audio_work/raw_audio/abilities_pack/Abilities/Brimstone/Brimstone_Smokes_Down.mp3",
+    "duration_s": 8.96,
+    "sample_rate": 44100,
+    "channels": 2,
+    "size_bytes": 143931,
+    "peak_db": -11.05,
+    "rms_db": -34.5,
+    "lead_silence_s": 0.535,
+    "active_end_s": 8.93,
+    "num_bursts": 9,
+    "bursts": [
+      {
+        "start_s": 0.535,
+        "end_s": 1.045,
+        "dur_s": 0.51,
+        "peak_db": -25.2
+      },
+      {
+        "start_s": 1.105,
+        "end_s": 1.18,
+        "dur_s": 0.075,
+        "peak_db": -32.5
+      },
+      {
+        "start_s": 1.22,
+        "end_s": 1.345,
+        "dur_s": 0.125,
+        "peak_db": -29.5
+      },
+      {
+        "start_s": 1.4,
+        "end_s": 1.915,
+        "dur_s": 0.515,
+        "peak_db": -26.4
+      },
+      {
+        "start_s": 2.425,
+        "end_s": 2.525,
+        "dur_s": 0.1,
+        "peak_db": -32.5
+      },
+      {
+        "start_s": 3.6,
+        "end_s": 3.695,
+        "dur_s": 0.095,
+        "peak_db": -32.0
+      },
+      {
+        "start_s": 4.705,
+        "end_s": 4.8,
+        "dur_s": 0.095,
+        "peak_db": -31.9
+      },
+      {
+        "start_s": 5.87,
+        "end_s": 6.905,
+        "dur_s": 1.035,
+        "peak_db": -18.8
+      },
+      {
+        "start_s": 6.945,
+        "end_s": 8.82,
+        "dur_s": 1.875,
+        "peak_db": -22.5
+      }
+    ]
+  },
+  {
+    "file": "abilities_pack/Abilities/Brimstone/Brimstone_Stim_Beacon_Down.mp3",
+    "abs_path": "/tmp/nirma_audio_work/raw_audio/abilities_pack/Abilities/Brimstone/Brimstone_Stim_Beacon_Down.mp3",
+    "duration_s": 5.7469,
+    "sample_rate": 44100,
+    "channels": 2,
+    "size_bytes": 92522,
+    "peak_db": -9.53,
+    "rms_db": -32.09,
+    "lead_silence_s": 1.11,
+    "active_end_s": 5.7,
+    "num_bursts": 4,
+    "bursts": [
+      {
+        "start_s": 1.11,
+        "end_s": 1.755,
+        "dur_s": 0.645,
+        "peak_db": -22.3
+      },
+      {
+        "start_s": 1.84,
+        "end_s": 2.08,
+        "dur_s": 0.24,
+        "peak_db": -22.9
+      },
+      {
+        "start_s": 2.38,
+        "end_s": 2.655,
+        "dur_s": 0.275,
+        "peak_db": -29.2
+      },
+      {
+        "start_s": 2.895,
+        "end_s": 5.705,
+        "dur_s": 2.81,
+        "peak_db": -17.3
+      }
+    ]
+  },
+  {
+    "file": "abilities_pack/Abilities/Brimstone/Brimstone_Stim_Beacon_Here.mp3",
+    "abs_path": "/tmp/nirma_audio_work/raw_audio/abilities_pack/Abilities/Brimstone/Brimstone_Stim_Beacon_Here.mp3",
+    "duration_s": 4.5714,
+    "sample_rate": 44100,
+    "channels": 2,
+    "size_bytes": 73713,
+    "peak_db": -9.33,
+    "rms_db": -31.35,
+    "lead_silence_s": 0.96,
+    "active_end_s": 4.55,
+    "num_bursts": 3,
+    "bursts": [
+      {
+        "start_s": 0.96,
+        "end_s": 1.63,
+        "dur_s": 0.67,
+        "peak_db": -22.1
+      },
+      {
+        "start_s": 1.69,
+        "end_s": 1.93,
+        "dur_s": 0.24,
+        "peak_db": -22.9
+      },
+      {
+        "start_s": 2.295,
+        "end_s": 4.55,
+        "dur_s": 2.255,
+        "peak_db": -19.3
+      }
+    ]
+  },
+  {
+    "file": "abilities_pack/Abilities/Phoenix/Phoenix_Blaze_Going_Up.mp3",
+    "abs_path": "/tmp/nirma_audio_work/raw_audio/abilities_pack/Abilities/Phoenix/Phoenix_Blaze_Going_Up.mp3",
+    "duration_s": 9.378,
+    "sample_rate": 44100,
+    "channels": 2,
+    "size_bytes": 150618,
+    "peak_db": -15.53,
+    "rms_db": -33.13,
+    "lead_silence_s": 0.915,
+    "active_end_s": 9.365,
+    "num_bursts": 4,
+    "bursts": [
+      {
+        "start_s": 0.915,
+        "end_s": 1.125,
+        "dur_s": 0.21,
+        "peak_db": -29.0
+      },
+      {
+        "start_s": 1.17,
+        "end_s": 1.34,
+        "dur_s": 0.17,
+        "peak_db": -33.6
+      },
+      {
+        "start_s": 1.38,
+        "end_s": 2.5,
+        "dur_s": 1.12,
+        "peak_db": -22.3
+      },
+      {
+        "start_s": 2.555,
+        "end_s": 9.365,
+        "dur_s": 6.81,
+        "peak_db": -22.1
+      }
+    ]
+  },
+  {
+    "file": "abilities_pack/Abilities/Phoenix/Phoenix_Curveball_2x.mp3",
+    "abs_path": "/tmp/nirma_audio_work/raw_audio/abilities_pack/Abilities/Phoenix/Phoenix_Curveball_2x.mp3",
+    "duration_s": 9.822,
+    "sample_rate": 44100,
+    "channels": 2,
+    "size_bytes": 157723,
+    "peak_db": -10.83,
+    "rms_db": -32.04,
+    "lead_silence_s": 1.41,
+    "active_end_s": 9.28,
+    "num_bursts": 5,
+    "bursts": [
+      {
+        "start_s": 1.41,
+        "end_s": 2.555,
+        "dur_s": 1.145,
+        "peak_db": -21.4
+      },
+      {
+        "start_s": 3.08,
+        "end_s": 4.855,
+        "dur_s": 1.775,
+        "peak_db": -17.8
+      },
+      {
+        "start_s": 6.23,
+        "end_s": 7.21,
+        "dur_s": 0.98,
+        "peak_db": -21.3
+      },
+      {
+        "start_s": 7.3,
+        "end_s": 7.33,
+        "dur_s": 0.03,
+        "peak_db": -41.5
+      },
+      {
+        "start_s": 7.495,
+        "end_s": 9.25,
+        "dur_s": 1.755,
+        "peak_db": -20.5
+      }
+    ]
+  },
+  {
+    "file": "abilities_pack/Abilities/Phoenix/Phoenix_Hot_Hands_Carefull_Now.mp3",
+    "abs_path": "/tmp/nirma_audio_work/raw_audio/abilities_pack/Abilities/Phoenix/Phoenix_Hot_Hands_Carefull_Now.mp3",
+    "duration_s": 5.2245,
+    "sample_rate": 44100,
+    "channels": 2,
+    "size_bytes": 84162,
+    "peak_db": -12.27,
+    "rms_db": -31.95,
+    "lead_silence_s": 0.22,
+    "active_end_s": 5.195,
+    "num_bursts": 3,
+    "bursts": [
+      {
+        "start_s": 0.215,
+        "end_s": 1.745,
+        "dur_s": 1.53,
+        "peak_db": -20.2
+      },
+      {
+        "start_s": 1.825,
+        "end_s": 4.66,
+        "dur_s": 2.835,
+        "peak_db": -20.9
+      },
+      {
+        "start_s": 4.73,
+        "end_s": 5.195,
+        "dur_s": 0.465,
+        "peak_db": -35.1
+      }
+    ]
+  },
+  {
+    "file": "abilities_pack/Abilities/Sage/Sage_Barrier_Orb_Barrier_Created.mp3",
+    "abs_path": "/tmp/nirma_audio_work/raw_audio/abilities_pack/Abilities/Sage/Sage_Barrier_Orb_Barrier_Created.mp3",
+    "duration_s": 4.7804,
+    "sample_rate": 44100,
+    "channels": 2,
+    "size_bytes": 77057,
+    "peak_db": -12.22,
+    "rms_db": -34.94,
+    "lead_silence_s": 1.315,
+    "active_end_s": 4.285,
+    "num_bursts": 2,
+    "bursts": [
+      {
+        "start_s": 1.315,
+        "end_s": 2.31,
+        "dur_s": 0.995,
+        "peak_db": -30.4
+      },
+      {
+        "start_s": 2.71,
+        "end_s": 4.12,
+        "dur_s": 1.41,
+        "peak_db": -20.9
+      }
+    ]
+  },
+  {
+    "file": "abilities_pack/Abilities/Sage/Sage_Barrier_Orb_Broken.mp3",
+    "abs_path": "/tmp/nirma_audio_work/raw_audio/abilities_pack/Abilities/Sage/Sage_Barrier_Orb_Broken.mp3",
+    "duration_s": 2.2465,
+    "sample_rate": 44100,
+    "channels": 2,
+    "size_bytes": 36515,
+    "peak_db": -5.13,
+    "rms_db": -26.58,
+    "lead_silence_s": 0.705,
+    "active_end_s": 1.915,
+    "num_bursts": 1,
+    "bursts": [
+      {
+        "start_s": 0.705,
+        "end_s": 1.5,
+        "dur_s": 0.795,
+        "peak_db": -8.5
+      }
+    ]
+  },
+  {
+    "file": "abilities_pack/Abilities/Sage/Sage_Barrier_Orb_Walking_Noise.mp3",
+    "abs_path": "/tmp/nirma_audio_work/raw_audio/abilities_pack/Abilities/Sage/Sage_Barrier_Orb_Walking_Noise.mp3",
+    "duration_s": 4.4669,
+    "sample_rate": 44100,
+    "channels": 2,
+    "size_bytes": 72042,
+    "peak_db": -14.14,
+    "rms_db": -37.53,
+    "lead_silence_s": 0.0,
+    "active_end_s": 4.415,
+    "num_bursts": 8,
+    "bursts": [
+      {
+        "start_s": 0.0,
+        "end_s": 1.185,
+        "dur_s": 1.185,
+        "peak_db": -22.8
+      },
+      {
+        "start_s": 1.56,
+        "end_s": 2.245,
+        "dur_s": 0.685,
+        "peak_db": -28.8
+      },
+      {
+        "start_s": 2.315,
+        "end_s": 2.33,
+        "dur_s": 0.015,
+        "peak_db": -39.8
+      },
+      {
+        "start_s": 2.385,
+        "end_s": 2.48,
+        "dur_s": 0.095,
+        "peak_db": -37.6
+      },
+      {
+        "start_s": 2.53,
+        "end_s": 2.95,
+        "dur_s": 0.42,
+        "peak_db": -30.8
+      },
+      {
+        "start_s": 3.07,
+        "end_s": 3.23,
+        "dur_s": 0.16,
+        "peak_db": -30.7
+      },
+      {
+        "start_s": 3.525,
+        "end_s": 3.705,
+        "dur_s": 0.18,
+        "peak_db": -30.3
+      },
+      {
+        "start_s": 4.075,
+        "end_s": 4.205,
+        "dur_s": 0.13,
+        "peak_db": -29.8
+      }
+    ]
+  },
+  {
+    "file": "abilities_pack/Abilities/Sage/Sage_Barrier_Orb_Wall_Raised.mp3",
+    "abs_path": "/tmp/nirma_audio_work/raw_audio/abilities_pack/Abilities/Sage/Sage_Barrier_Orb_Wall_Raised.mp3",
+    "duration_s": 4.3886,
+    "sample_rate": 44100,
+    "channels": 2,
+    "size_bytes": 70788,
+    "peak_db": -12.25,
+    "rms_db": -33.34,
+    "lead_silence_s": 0.91,
+    "active_end_s": 3.915,
+    "num_bursts": 3,
+    "bursts": [
+      {
+        "start_s": 0.85,
+        "end_s": 0.97,
+        "dur_s": 0.12,
+        "peak_db": -36.4
+      },
+      {
+        "start_s": 1.05,
+        "end_s": 1.885,
+        "dur_s": 0.835,
+        "peak_db": -32.6
+      },
+      {
+        "start_s": 2.16,
+        "end_s": 3.685,
+        "dur_s": 1.525,
+        "peak_db": -20.1
+      }
+    ]
+  },
+  {
+    "file": "abilities_pack/Abilities/Sage/Sage_Slow_Orb.mp3",
+    "abs_path": "/tmp/nirma_audio_work/raw_audio/abilities_pack/Abilities/Sage/Sage_Slow_Orb.mp3",
+    "duration_s": 6.9224,
+    "sample_rate": 44100,
+    "channels": 2,
+    "size_bytes": 111330,
+    "peak_db": -10.08,
+    "rms_db": -33.78,
+    "lead_silence_s": 0.48,
+    "active_end_s": 6.735,
+    "num_bursts": 4,
+    "bursts": [
+      {
+        "start_s": 0.465,
+        "end_s": 0.655,
+        "dur_s": 0.19,
+        "peak_db": -40.9
+      },
+      {
+        "start_s": 0.77,
+        "end_s": 1.43,
+        "dur_s": 0.66,
+        "peak_db": -25.2
+      },
+      {
+        "start_s": 1.815,
+        "end_s": 4.855,
+        "dur_s": 3.04,
+        "peak_db": -17.2
+      },
+      {
+        "start_s": 5.94,
+        "end_s": 5.98,
+        "dur_s": 0.04,
+        "peak_db": -41.0
+      }
+    ]
+  },
+  {
+    "file": "abilities_pack/Abilities/Jett/Jett_CloudBurst_Hm.mp3",
+    "abs_path": "/tmp/nirma_audio_work/raw_audio/abilities_pack/Abilities/Jett/Jett_CloudBurst_Hm.mp3",
+    "duration_s": 3.0824,
+    "sample_rate": 44100,
+    "channels": 2,
+    "size_bytes": 49890,
+    "peak_db": -12.51,
+    "rms_db": -35.03,
+    "lead_silence_s": 0.825,
+    "active_end_s": 2.735,
+    "num_bursts": 2,
+    "bursts": [
+      {
+        "start_s": 0.825,
+        "end_s": 1.225,
+        "dur_s": 0.4,
+        "peak_db": -20.0
+      },
+      {
+        "start_s": 1.265,
+        "end_s": 2.41,
+        "dur_s": 1.145,
+        "peak_db": -28.0
+      }
+    ]
+  },
+  {
+    "file": "abilities_pack/Abilities/Jett/Jett_Cloudburst_Blocking_Sight.mp3",
+    "abs_path": "/tmp/nirma_audio_work/raw_audio/abilities_pack/Abilities/Jett/Jett_Cloudburst_Blocking_Sight.mp3",
+    "duration_s": 3.2914,
+    "sample_rate": 44100,
+    "channels": 2,
+    "size_bytes": 53233,
+    "peak_db": -10.57,
+    "rms_db": -33.75,
+    "lead_silence_s": 0.455,
+    "active_end_s": 2.305,
+    "num_bursts": 1,
+    "bursts": [
+      {
+        "start_s": 0.455,
+        "end_s": 2.065,
+        "dur_s": 1.61,
+        "peak_db": -18.4
+      }
+    ]
+  },
+  {
+    "file": "abilities_pack/Abilities/Jett/Jett_Tailwind.mp3",
+    "abs_path": "/tmp/nirma_audio_work/raw_audio/abilities_pack/Abilities/Jett/Jett_Tailwind.mp3",
+    "duration_s": 2.9257,
+    "sample_rate": 44100,
+    "channels": 2,
+    "size_bytes": 47382,
+    "peak_db": -10.12,
+    "rms_db": -31.59,
+    "lead_silence_s": 0.705,
+    "active_end_s": 1.53,
+    "num_bursts": 1,
+    "bursts": [
+      {
+        "start_s": 0.705,
+        "end_s": 1.475,
+        "dur_s": 0.77,
+        "peak_db": -18.2
+      }
+    ]
+  },
+  {
+    "file": "abilities_pack/Abilities/Jett/Jett_Updraft.mp3",
+    "abs_path": "/tmp/nirma_audio_work/raw_audio/abilities_pack/Abilities/Jett/Jett_Updraft.mp3",
+    "duration_s": 4.2318,
+    "sample_rate": 44100,
+    "channels": 2,
+    "size_bytes": 68280,
+    "peak_db": -11.25,
+    "rms_db": -31.99,
+    "lead_silence_s": 1.84,
+    "active_end_s": 3.57,
+    "num_bursts": 3,
+    "bursts": [
+      {
+        "start_s": 1.835,
+        "end_s": 3.0,
+        "dur_s": 1.165,
+        "peak_db": -18.0
+      },
+      {
+        "start_s": 3.21,
+        "end_s": 3.235,
+        "dur_s": 0.025,
+        "peak_db": -41.1
+      },
+      {
+        "start_s": 3.395,
+        "end_s": 3.52,
+        "dur_s": 0.125,
+        "peak_db": -28.3
+      }
+    ]
+  },
+  {
+    "file": "abilities_pack/Abilities/Raze/Raze_Blast_Pack.mp3",
+    "abs_path": "/tmp/nirma_audio_work/raw_audio/abilities_pack/Abilities/Raze/Raze_Blast_Pack.mp3",
+    "duration_s": 6.2694,
+    "sample_rate": 44100,
+    "channels": 2,
+    "size_bytes": 100881,
+    "peak_db": -9.29,
+    "rms_db": -31.88,
+    "lead_silence_s": 0.015,
+    "active_end_s": 5.955,
+    "num_bursts": 4,
+    "bursts": [
+      {
+        "start_s": 0.015,
+        "end_s": 0.61,
+        "dur_s": 0.595,
+        "peak_db": -21.1
+      },
+      {
+        "start_s": 0.685,
+        "end_s": 0.955,
+        "dur_s": 0.27,
+        "peak_db": -28.2
+      },
+      {
+        "start_s": 1.07,
+        "end_s": 1.12,
+        "dur_s": 0.05,
+        "peak_db": -30.5
+      },
+      {
+        "start_s": 5.005,
+        "end_s": 5.765,
+        "dur_s": 0.76,
+        "peak_db": -15.4
+      }
+    ]
+  },
+  {
+    "file": "abilities_pack/Abilities/Raze/Raze_Boom_Bot_Bomb_Buddy_Out.mp3",
+    "abs_path": "/tmp/nirma_audio_work/raw_audio/abilities_pack/Abilities/Raze/Raze_Boom_Bot_Bomb_Buddy_Out.mp3",
+    "duration_s": 8.5943,
+    "sample_rate": 44100,
+    "channels": 2,
+    "size_bytes": 138079,
+    "peak_db": -10.29,
+    "rms_db": -34.97,
+    "lead_silence_s": 0.01,
+    "active_end_s": 8.555,
+    "num_bursts": 7,
+    "bursts": [
+      {
+        "start_s": 0.01,
+        "end_s": 0.095,
+        "dur_s": 0.085,
+        "peak_db": -22.9
+      },
+      {
+        "start_s": 0.39,
+        "end_s": 0.785,
+        "dur_s": 0.395,
+        "peak_db": -22.7
+      },
+      {
+        "start_s": 1.105,
+        "end_s": 2.275,
+        "dur_s": 1.17,
+        "peak_db": -19.3
+      },
+      {
+        "start_s": 4.045,
+        "end_s": 4.16,
+        "dur_s": 0.115,
+        "peak_db": -35.2
+      },
+      {
+        "start_s": 5.225,
+        "end_s": 6.62,
+        "dur_s": 1.395,
+        "peak_db": -39.5
+      },
+      {
+        "start_s": 6.885,
+        "end_s": 7.09,
+        "dur_s": 0.205,
+        "peak_db": -26.6
+      },
+      {
+        "start_s": 7.135,
+        "end_s": 7.175,
+        "dur_s": 0.04,
+        "peak_db": -37.0
+      }
+    ]
+  },
+  {
+    "file": "abilities_pack/Abilities/Raze/Raze_Boom_Bot_OK.mp3",
+    "abs_path": "/tmp/nirma_audio_work/raw_audio/abilities_pack/Abilities/Raze/Raze_Boom_Bot_OK.mp3",
+    "duration_s": 9.8482,
+    "sample_rate": 44100,
+    "channels": 2,
+    "size_bytes": 158141,
+    "peak_db": -12.88,
+    "rms_db": -37.27,
+    "lead_silence_s": 0.475,
+    "active_end_s": 9.81,
+    "num_bursts": 10,
+    "bursts": [
+      {
+        "start_s": 0.475,
+        "end_s": 0.55,
+        "dur_s": 0.075,
+        "peak_db": -30.1
+      },
+      {
+        "start_s": 0.64,
+        "end_s": 0.88,
+        "dur_s": 0.24,
+        "peak_db": -22.0
+      },
+      {
+        "start_s": 1.15,
+        "end_s": 1.545,
+        "dur_s": 0.395,
+        "peak_db": -22.3
+      },
+      {
+        "start_s": 2.005,
+        "end_s": 2.295,
+        "dur_s": 0.29,
+        "peak_db": -25.2
+      },
+      {
+        "start_s": 2.34,
+        "end_s": 2.8,
+        "dur_s": 0.46,
+        "peak_db": -21.6
+      },
+      {
+        "start_s": 2.845,
+        "end_s": 3.185,
+        "dur_s": 0.34,
+        "peak_db": -30.6
+      },
+      {
+        "start_s": 4.95,
+        "end_s": 5.07,
+        "dur_s": 0.12,
+        "peak_db": -35.1
+      },
+      {
+        "start_s": 6.2,
+        "end_s": 7.515,
+        "dur_s": 1.315,
+        "peak_db": -39.2
+      },
+      {
+        "start_s": 7.78,
+        "end_s": 8.02,
+        "dur_s": 0.24,
+        "peak_db": -28.4
+      },
+      {
+        "start_s": 8.06,
+        "end_s": 8.105,
+        "dur_s": 0.045,
+        "peak_db": -39.5
+      }
+    ]
+  },
+  {
+    "file": "abilities_pack/Abilities/Raze/Raze_Grenade.mp3",
+    "abs_path": "/tmp/nirma_audio_work/raw_audio/abilities_pack/Abilities/Raze/Raze_Grenade.mp3",
+    "duration_s": 6.2171,
+    "sample_rate": 44100,
+    "channels": 2,
+    "size_bytes": 100045,
+    "peak_db": -12.53,
+    "rms_db": -30.41,
+    "lead_silence_s": 0.025,
+    "active_end_s": 6.04,
+    "num_bursts": 15,
+    "bursts": [
+      {
+        "start_s": 0.02,
+        "end_s": 0.085,
+        "dur_s": 0.065,
+        "peak_db": -35.9
+      },
+      {
+        "start_s": 0.155,
+        "end_s": 0.185,
+        "dur_s": 0.03,
+        "peak_db": -30.4
+      },
+      {
+        "start_s": 0.24,
+        "end_s": 0.365,
+        "dur_s": 0.125,
+        "peak_db": -25.1
+      },
+      {
+        "start_s": 0.425,
+        "end_s": 0.535,
+        "dur_s": 0.11,
+        "peak_db": -29.4
+      },
+      {
+        "start_s": 1.575,
+        "end_s": 1.775,
+        "dur_s": 0.2,
+        "peak_db": -19.6
+      },
+      {
+        "start_s": 1.9,
+        "end_s": 1.935,
+        "dur_s": 0.035,
+        "peak_db": -34.1
+      },
+      {
+        "start_s": 2.06,
+        "end_s": 2.095,
+        "dur_s": 0.035,
+        "peak_db": -36.4
+      },
+      {
+        "start_s": 2.225,
+        "end_s": 2.255,
+        "dur_s": 0.03,
+        "peak_db": -39.5
+      },
+      {
+        "start_s": 2.39,
+        "end_s": 2.58,
+        "dur_s": 0.19,
+        "peak_db": -32.8
+      },
+      {
+        "start_s": 2.62,
+        "end_s": 2.74,
+        "dur_s": 0.12,
+        "peak_db": -30.8
+      },
+      {
+        "start_s": 2.87,
+        "end_s": 3.13,
+        "dur_s": 0.26,
+        "peak_db": -25.8
+      },
+      {
+        "start_s": 3.175,
+        "end_s": 3.205,
+        "dur_s": 0.03,
+        "peak_db": -30.7
+      },
+      {
+        "start_s": 3.26,
+        "end_s": 3.385,
+        "dur_s": 0.125,
+        "peak_db": -30.4
+      },
+      {
+        "start_s": 3.43,
+        "end_s": 5.715,
+        "dur_s": 2.285,
+        "peak_db": -15.4
+      },
+      {
+        "start_s": 5.77,
+        "end_s": 5.86,
+        "dur_s": 0.09,
+        "peak_db": -40.4
+      }
+    ]
+  }
+]

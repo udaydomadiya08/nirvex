@@ -1,0 +1,28 @@
+# Dependencies
+node_modules/
+
+# Environment files with secrets
+.env
+.env.local
+.env.*.local
+
+# Operating System Files
+.DS_Store
+Thumbs.db
+
+# Archives and build artifacts
+*.zip
+*.tar.gz
+
+# Local server databases and temporary dumps
+server/data/*.json
+server/data/*.bak
+server/data/*.tmp*
+tests/tmp_*
+tmp/
+*.log
+
+# Antigravity agent temp artifacts
+artifacts/
+agent_sandbox/
+user_uploaded_files/

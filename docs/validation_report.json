@@ -1,0 +1,345 @@
+{
+  "pipeline_version": "2.0.0-cleanroom",
+  "total_assets_validated": 16,
+  "all_passed": true,
+  "results": [
+    {
+      "file": "hero_vajra_rig.glb",
+      "asset_type": "character",
+      "passed": true,
+      "checks": {
+        "glb_header_valid": true,
+        "positive_scale_determinant": true,
+        "pbr_materials_valid": true,
+        "hierarchy_complete": true,
+        "poly_budget_ok": true
+      },
+      "errors": [],
+      "material_count": 4,
+      "node_count": 28,
+      "mesh_count": 18,
+      "triangle_count": 216
+    },
+    {
+      "file": "hero_drishti_rig.glb",
+      "asset_type": "character",
+      "passed": true,
+      "checks": {
+        "glb_header_valid": true,
+        "positive_scale_determinant": true,
+        "pbr_materials_valid": true,
+        "hierarchy_complete": true,
+        "poly_budget_ok": true
+      },
+      "errors": [],
+      "material_count": 4,
+      "node_count": 28,
+      "mesh_count": 18,
+      "triangle_count": 216
+    },
+    {
+      "file": "hero_pralay_rig.glb",
+      "asset_type": "character",
+      "passed": true,
+      "checks": {
+        "glb_header_valid": true,
+        "positive_scale_determinant": true,
+        "pbr_materials_valid": true,
+        "hierarchy_complete": true,
+        "poly_budget_ok": true
+      },
+      "errors": [],
+      "material_count": 4,
+      "node_count": 28,
+      "mesh_count": 18,
+      "triangle_count": 216
+    },
+    {
+      "file": "hero_kavach_rig.glb",
+      "asset_type": "character",
+      "passed": true,
+      "checks": {
+        "glb_header_valid": true,
+        "positive_scale_determinant": true,
+        "pbr_materials_valid": true,
+        "hierarchy_complete": true,
+        "poly_budget_ok": true
+      },
+      "errors": [],
+      "material_count": 4,
+      "node_count": 28,
+      "mesh_count": 18,
+      "triangle_count": 216
+    },
+    {
+      "file": "hero_agni_rig.glb",
+      "asset_type": "character",
+      "passed": true,
+      "checks": {
+        "glb_header_valid": true,
+        "positive_scale_determinant": true,
+        "pbr_materials_valid": true,
+        "hierarchy_complete": true,
+        "poly_budget_ok": true
+      },
+      "errors": [],
+      "material_count": 4,
+      "node_count": 28,
+      "mesh_count": 18,
+      "triangle_count": 216
+    },
+    {
+      "file": "weapon_vanguard_ar.glb",
+      "asset_type": "weapon",
+      "passed": true,
+      "checks": {
+        "glb_header_valid": true,
+        "positive_scale_determinant": true,
+        "pbr_materials_valid": true,
+        "hierarchy_complete": true,
+        "poly_budget_ok": true,
+        "muzzle_forward_neg_z": true
+      },
+      "errors": [],
+      "material_count": 4,
+      "node_count": 9,
+      "mesh_count": 6,
+      "triangle_count": 72,
+      "muzzle_socket_translation": [
+        0.0,
+        0.088,
+        -0.74
+      ]
+    },
+    {
+      "file": "weapon_surya_carbine.glb",
+      "asset_type": "weapon",
+      "passed": true,
+      "checks": {
+        "glb_header_valid": true,
+        "positive_scale_determinant": true,
+        "pbr_materials_valid": true,
+        "hierarchy_complete": true,
+        "poly_budget_ok": true,
+        "muzzle_forward_neg_z": true
+      },
+      "errors": [],
+      "material_count": 4,
+      "node_count": 9,
+      "mesh_count": 6,
+      "triangle_count": 72,
+      "muzzle_socket_translation": [
+        0.0,
+        0.088,
+        -0.84
+      ]
+    },
+    {
+      "file": "weapon_spectre_smg.glb",
+      "asset_type": "weapon",
+      "passed": true,
+      "checks": {
+        "glb_header_valid": true,
+        "positive_scale_determinant": true,
+        "pbr_materials_valid": true,
+        "hierarchy_complete": true,
+        "poly_budget_ok": true,
+        "muzzle_forward_neg_z": true
+      },
+      "errors": [],
+      "material_count": 4,
+      "node_count": 9,
+      "mesh_count": 6,
+      "triangle_count": 72,
+      "muzzle_socket_translation": [
+        0.0,
+        0.085,
+        -0.62
+      ]
+    },
+    {
+      "file": "weapon_breacher_sg.glb",
+      "asset_type": "weapon",
+      "passed": true,
+      "checks": {
+        "glb_header_valid": true,
+        "positive_scale_determinant": true,
+        "pbr_materials_valid": true,
+        "hierarchy_complete": true,
+        "poly_budget_ok": true,
+        "muzzle_forward_neg_z": true
+      },
+      "errors": [],
+      "material_count": 4,
+      "node_count": 9,
+      "mesh_count": 6,
+      "triangle_count": 72,
+      "muzzle_socket_translation": [
+        0.0,
+        0.088,
+        -0.74
+      ]
+    },
+    {
+      "file": "weapon_agni_lmg.glb",
+      "asset_type": "weapon",
+      "passed": true,
+      "checks": {
+        "glb_header_valid": true,
+        "positive_scale_determinant": true,
+        "pbr_materials_valid": true,
+        "hierarchy_complete": true,
+        "poly_budget_ok": true,
+        "muzzle_forward_neg_z": true
+      },
+      "errors": [],
+      "material_count": 4,
+      "node_count": 9,
+      "mesh_count": 6,
+      "triangle_count": 72,
+      "muzzle_socket_translation": [
+        0.0,
+        0.09,
+        -0.82
+      ]
+    },
+    {
+      "file": "weapon_garuda_dmr.glb",
+      "asset_type": "weapon",
+      "passed": true,
+      "checks": {
+        "glb_header_valid": true,
+        "positive_scale_determinant": true,
+        "pbr_materials_valid": true,
+        "hierarchy_complete": true,
+        "poly_budget_ok": true,
+        "muzzle_forward_neg_z": true
+      },
+      "errors": [],
+      "material_count": 4,
+      "node_count": 9,
+      "mesh_count": 6,
+      "triangle_count": 72,
+      "muzzle_socket_translation": [
+        0.0,
+        0.09,
+        -0.88
+      ]
+    },
+    {
+      "file": "weapon_vajra_sniper.glb",
+      "asset_type": "weapon",
+      "passed": true,
+      "checks": {
+        "glb_header_valid": true,
+        "positive_scale_determinant": true,
+        "pbr_materials_valid": true,
+        "hierarchy_complete": true,
+        "poly_budget_ok": true,
+        "muzzle_forward_neg_z": true
+      },
+      "errors": [],
+      "material_count": 4,
+      "node_count": 9,
+      "mesh_count": 6,
+      "triangle_count": 72,
+      "muzzle_socket_translation": [
+        0.0,
+        0.092,
+        -0.96
+      ]
+    },
+    {
+      "file": "weapon_sidearm_9mm.glb",
+      "asset_type": "weapon",
+      "passed": true,
+      "checks": {
+        "glb_header_valid": true,
+        "positive_scale_determinant": true,
+        "pbr_materials_valid": true,
+        "hierarchy_complete": true,
+        "poly_budget_ok": true,
+        "muzzle_forward_neg_z": true
+      },
+      "errors": [],
+      "material_count": 4,
+      "node_count": 9,
+      "mesh_count": 6,
+      "triangle_count": 72,
+      "muzzle_socket_translation": [
+        0.0,
+        0.088,
+        -0.24
+      ]
+    },
+    {
+      "file": "weapon_chhaya_pistol.glb",
+      "asset_type": "weapon",
+      "passed": true,
+      "checks": {
+        "glb_header_valid": true,
+        "positive_scale_determinant": true,
+        "pbr_materials_valid": true,
+        "hierarchy_complete": true,
+        "poly_budget_ok": true,
+        "muzzle_forward_neg_z": true
+      },
+      "errors": [],
+      "material_count": 4,
+      "node_count": 9,
+      "mesh_count": 6,
+      "triangle_count": 72,
+      "muzzle_socket_translation": [
+        0.0,
+        0.088,
+        -0.36
+      ]
+    },
+    {
+      "file": "weapon_rudra_revolver.glb",
+      "asset_type": "weapon",
+      "passed": true,
+      "checks": {
+        "glb_header_valid": true,
+        "positive_scale_determinant": true,
+        "pbr_materials_valid": true,
+        "hierarchy_complete": true,
+        "poly_budget_ok": true,
+        "muzzle_forward_neg_z": true
+      },
+      "errors": [],
+      "material_count": 4,
+      "node_count": 9,
+      "mesh_count": 6,
+      "triangle_count": 72,
+      "muzzle_socket_translation": [
+        0.0,
+        0.095,
+        -0.31
+      ]
+    },
+    {
+      "file": "weapon_katar_knife.glb",
+      "asset_type": "weapon",
+      "passed": true,
+      "checks": {
+        "glb_header_valid": true,
+        "positive_scale_determinant": true,
+        "pbr_materials_valid": true,
+        "hierarchy_complete": true,
+        "poly_budget_ok": true,
+        "muzzle_forward_neg_z": true
+      },
+      "errors": [],
+      "material_count": 4,
+      "node_count": 9,
+      "mesh_count": 6,
+      "triangle_count": 72,
+      "muzzle_socket_translation": [
+        0.0,
+        0.01,
+        -0.3
+      ]
+    }
+  ]
+}

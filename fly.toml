@@ -1,0 +1,35 @@
+app = "nirvex-campus-battlefield"
+primary_region = "bom"
+
+[build]
+  dockerfile = "Dockerfile"
+
+[env]
+  NODE_ENV = "production"
+  PORT = "8787"
+  NIRVEX_HOST = "0.0.0.0"
+  NIRVEX_DB_PATH = "/app/server/data/nirvex_db.json"
+  NIRVEX_RECONNECT_GRACE_MS = "120000"
+
+[mounts]
+  source = "nirvex_data"
+  destination = "/app/server/data"
+
+[http_service]
+  internal_port = 8787
+  force_https = true
+  auto_stop_machines = false
+  auto_start_machines = true
+  min_machines_running = 1
+
+  [http_service.concurrency]
+    type = "connections"
+    hard_limit = 500
+    soft_limit = 400
+
+  [[http_service.checks]]
+    interval = "15s"
+    timeout = "5s"
+    grace_period = "5s"
+    method = "GET"
+    path = "/healthz"
